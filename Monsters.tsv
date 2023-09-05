@@ -1,683 +1,154 @@
 Monster	Type	AC	HD	Size	No. Appearing	Save	Campaign Setting	Source	Pg. #	OGL Source/Legal Status
-Bao she		4	4***	M		T5	Calidar	https://bruce-heard.blogspot.com/2020/06/Baoshe.html		
-Crocotaur		3	8****	L		F8	Calidar	https://bruce-heard.blogspot.com/2020/06/Crocotaur.html		
-Demigod, Initiate		-1	28+20	L		C36	Generic	https://bruce-heard.blogspot.com/2020/05/Attaining-Demigodhood.html		
-Demigod, Paragon		-7	52+40	L		C36	Generic	https://bruce-heard.blogspot.com/2020/05/Attaining-Demigodhood.html		
-Demigod, Temporal		-4	40+30	L		C36	Generic	https://bruce-heard.blogspot.com/2020/05/Attaining-Demigodhood.html		
-Eerie		4	4***	M		F4	Calidar	https://bruce-heard.blogspot.com/2020/05/eerie-monster.html		
-Hanai		3	3****	M		My4	Calidar	https://bruce-heard.blogspot.com/2020/06/Hanai.html		
-Incarnate		2	8+2 (12+3, 16+4, or 20+5)	M		Fighter of equivalent level	Calidar	https://bruce-heard.blogspot.com/2020/05/Incarnates.html		
-Jar Malefactor		4	4**	S		F4	Calidar	https://bruce-heard.blogspot.com/2020/06/Malefactor.html		
-Purple Lotus	Lowlife	9	1*	S		F1	Calidar	https://bruce-heard.blogspot.com/2020/08/Purple-Lotus.html		
-Purple Lotus, Prime	Lowlife	9	1-10********			F1-10	Calidar	https://bruce-heard.blogspot.com/2020/08/Purple-Lotus.html		
-Spectral Bat		5	1/2***	S		F1	Calidar	https://bruce-heard.blogspot.com/2020/05/spectral-bat.html		
-Teekal		7 (body), 4 (tentacle)	7*****	S		F10	Calidar	https://bruce-heard.blogspot.com/2020/07/Teekal.html		
-Amoeba, Giant	Lowlife	9	10-15			F7	Generic	DMR2 Creature Catalog	8	Creatures from Unknown Lands
-Animal, Prehistoric, Sloth, Megatherium	Animal (Prehistoric)	6	11			F6	Generic	DMR2 Creature Catalog	9	Creatures from Unknown Lands
-Centaur, Pegataur	Monster	5 or better	5*-14***			E1-10 or F5-14	Generic	DMR2 Creature Catalog	82	Creatures from Unknown Lands
-Fish, Piranha (Cold-Water)	Animal (Normal)	7	1/8 (1 hp)			NM	Generic	DMR2 Creature Catalog	40	Creatures from Unknown Lands
-Giant, Mountain	Humanoid (Giant)	0	12*-20*			F (level = HD)	Generic	Rules Cyclopedia	179	Creatures from Unknown Lands
-Oyster, Giant	Animal (Giant)	5 (-2)	10			F5	Generic	DMR2 Creature Catalog	81	Creatures from Unknown Lands
-Aranea	Monster	7	3**			M3	Generic	DMR2 Creature Catalog	11	Creatures from Unknown Lands (Arachnea)
-Hutaakan	Humanoid	8	1-1			NM	Generic	DMR2 Creature Catalog	58	Creatures from Unknown Lands (Bardi (jackal folk))
-Tabi	Monster	6	5*			M5	Generic	DMR2 Creature Catalog	104	Creatures from Unknown Lands (Bawa)
-Death Fiend (Ostegos)	Monster (Planar)	4	7**			F7	Generic	DMR2 Creature Catalog	26	Creatures from Unknown Lands (Bonewing)
-Brain Collector (Neh-Thalggu)	Monster (Planar)	2	10*			F10	Generic	DMR2 Creature Catalog	16	Creatures from Unknown Lands (Brainstormer)
-Grab Grass	Lowlife	9	1 per 5' square			NM	Generic	Rules Cyclopedia	181	Creatures from Unknown Lands (Carnivore Meadow)
-Fish, Carp, Gargantuan	Animal (Giant)	4	15*			F7	Generic	DMR2 Creature Catalog	39	Creatures from Unknown Lands (Carp, Gigantic)
-Horde	Monster (Planar)	3	3*-21*			See below	Generic	Rules Cyclopedia	185	Creatures from Unknown Lands (Colony)
-Hag, Crone of Chaos	Humanoid	7	6*			F6	Generic	DMR2 Creature Catalog	23	Creatures from Unknown Lands (Crone)
-Phanaton	Monster	7	1-1			F1	Generic	DMR2 Creature Catalog	82	Creatures from Unknown Lands (Dewas (Flying squirrel folk))
-Dog	Animal (Normal)	7	2			F1	Generic	DMR2 Creature Catalog	30	Creatures from Unknown Lands (Dog, Normal)
-Pocket Dragon	Dragon-Kin	8	3*			M3	Generic	DMR2 Creature Catalog	31	Creatures from Unknown Lands (Dragonling)
-Phantom, Lesser	Enchanted	9	6**			F6	Generic	DMR2 Creature Catalog	83	Creatures from Unknown Lands (Ectoplasm)
-Plasm	Monster (Planar)	0	6*			F6	Generic	Rules Cyclopedia	200	Creatures from Unknown Lands (Elemental Warrior)
-Plasm, Giant	Monster (Planar)	-4	12*			F12	Generic	Rules Cyclopedia	200	Creatures from Unknown Lands (Elemental Warrior)
-Sollux (Sun Brother)	Humanoid	0	10*-14*			F10-14	Generic	DMR2 Creature Catalog	98	Creatures from Unknown Lands (Fire Knight)
-Man, Caveman, Garl	Humanoid	7	6			F6	Generic	DMR2 Creature Catalog	46	Creatures from Unknown Lands (Gaor)
-Ghostly Horde	Enchanted	4	3			F3	Generic	DMR2 Creature Catalog	48	Creatures from Unknown Lands (Ghost Army)
-Giant, Hephaeston	Humanoid (Giant)	-2	25****			F25	Generic	DMR2 Creature Catalog	53	Creatures from Unknown Lands (Giant, Blacksmith)
-Golem, Drolem	Construct	-3	20*****			F10 (and see below)	Generic	Rules Cyclopedia	173	Creatures from Unknown Lands (Golem, Dragon)
-Snake, Hypno	Animal (Enchanted)	4	8*			M5	Generic	DMR2 Creature Catalog	59	Creatures from Unknown Lands (Hypnotic Snake)
-Jellyfish, Marauder, Giant	Lowlife	9	4**			F2	Generic	DMR2 Creature Catalog	60	Creatures from Unknown Lands (Jellyfish, Giant)
-Jellyfish, Man-O-War, Giant	Lowlife	6	9**			F5	Generic	DMR2 Creature Catalog	60	Creatures from Unknown Lands (Jellyfish, Gigantic)
-Tortle, Snapper	Humanoid	5	3			F3	Generic	DMR2 Creature Catalog	97	Creatures from Unknown Lands (Kurma (Turtle-folk))
-Centaur, Chevall	Monster	2/5	7*			F7	Generic	DMR2 Creature Catalog	21	Creatures from Unknown Lands (Legendary Horse)
-Snake, Marble, Giant	Animal (Enchanted)	8	3			F3	Mystara	B3 Palace of the Silver Princess (1st Printing)	27	Creatures from Unknown Lands (Lion Snake)
-Weird, Water	Enchanted	5	3*			F6	Generic	DMR2 Creature Catalog	109	Creatures from Unknown Lands (Liquid Horror)
-Juggernaut, Stone	Construct	0	30**			Special	Generic	DMR2 Creature Catalog	62	Creatures from Unknown Lands (Living Juggernaut, Stone)
-Juggernaut, Wood	Construct	0	25**			Special	Generic	DMR2 Creature Catalog	62	Creatures from Unknown Lands (Living Juggernaut, Wood)
-Mek	Construct	-4	11**-16**			F36	Generic	Rules Cyclopedia	192	Creatures from Unknown Lands (Living Machine)
-Lizard, Foot-Pad, Giant	Monster	6	2+1			F2	Generic	DMR2 Creature Catalog	70	Creatures from Unknown Lands (Lizard, Giant tame)
-Dinosaur, Lake Klintest Monster (Lochnar)	Animal (Prehistoric)	4	13			F13	Generic	GAZ6 The Dwarves of Rockhome	73	Creatures from Unknown Lands (Loch Monster)
-Bubble	Monster	9	½			F1	Mystara	B3 Palace of the Silver Princess (1st Printing)	26	Creatures from Unknown Lands (Magic Sphere)
-Dusker	Construct	7	2**			F2	Mystara	M5 Talons of Night	42	Creatures from Unknown Lands (Morpher)
-Dusker, Brute	Construct	7	4**			F4	Mystara	M5 Talons of Night	42	Creatures from Unknown Lands (Morpher)
-Dusker, Giant	Construct	7	8**			F8	Mystara	M5 Talons of Night	42	Creatures from Unknown Lands (Morpher)
-Nagpa	Monster	3	9**			M9	Generic	DMR2 Creature Catalog	79	Creatures from Unknown Lands (Nekbet (Vulture folk))
-Chameleon Man	Humanoid	9	2*			F2	Generic	DMR2 Creature Catalog	20	Creatures from Unknown Lands (Neskakari (Chameleon Folk))
-Rakasta	Humanoid	6	2+1			F2	Generic	DMR2 Creature Catalog	85	Creatures from Unknown Lands (Ngari (Cat-folk))
-Nightmare Creature, Malfera	Monster (Planar)	3	9**			F13	Generic	Rules Cyclopedia	191	Creatures from Unknown Lands (Nightmare Oliphant)
-Geonid	Monster	-2	2			F2	Generic	DMR2 Creature Catalog	47	Creatures from Unknown Lands (Petros)
-Protector	Humanoid	2	7			M7	Mystara	B3 Palace of the Silver Princess (1st Printing)	28	Creatures from Unknown Lands (Realm Wards)
-Rock Man	Humanoid	2	3			D3	Generic	DMR2 Creature Catalog	88	Creatures from Unknown Lands (Rock folk)
-Moss, Purple	Lowlife	9	1			F1	Mystara	B3 Palace of the Silver Princess (1st Printing)	28	Creatures from Unknown Lands (Scarlet Moss)
-Sea Horse	Monster	7	2-4			F2	Generic	DMR2 Creature Catalog	91	Creatures from Unknown Lands (Sea Horse, Giant)
 Adaptor	Monster	9	8*	M	1d6 (1d12)	F8	Generic	Rules Cyclopedia	157	Creatures from Unknown Lands (Shaper)
-Magen, Hypnos	Construct	7	2*			M2	Generic	DMR2 Creature Catalog	73	Creatures from Unknown Lands (Simulacre, Mesmerizer)
-Magen, Demos	Construct	7 or armor type	3+2			F4	Generic	DMR2 Creature Catalog	73	Creatures from Unknown Lands (Simulacre, Warden)
-Chimera, Undead	Undead	4	9****			F9	Mystara	X11 Saga of the Shadow Lord	61	Creatures from Unknown Lands (Skeleton, Chimera)
-Skeleton, Skeletal Beast	Undead	2	Variable			F7	Mystara	X11 Saga of the Shadow Lord	61	Creatures from Unknown Lands (Skeleton, battlefield warbeast)
-Sacrol	Undead	5	8			F8	Mystara	X9 The Savage Coast	28	Creatures from Unknown Lands (Skull Lord)
-Serpentweed, Giant	Lowlife	6	9 per stalk			F9	Generic	DMR2 Creature Catalog	91	Creatures from Unknown Lands (Snake Lily)
-Spider, Sand, Giant	Lowlife	6	2+1**			F1	Generic	DMR2 Creature Catalog	100	Creatures from Unknown Lands (Spider, Giant Dune)
-Spider, Silk	Lowlife	7	2**			F0	Mystara	GAZ15 Dawn of the Emperors: Thyatis and Alphatia: Book #1: The Dungeon Master's Sourcebook	57	Creatures from Unknown Lands (Spider, Giant Tame)
-Spider, Shroud, Giant	Lowlife	4	5***			F5	Generic	DMR2 Creature Catalog	100	Creatures from Unknown Lands (Spider, giant Embalmer)
-Statue, Living, Jade	Construct	4	3+1**			F10	Generic	DMR2 Creature Catalog	70	Creatures from Unknown Lands (Statue, Animated (Jade))
-Winged Warrior	Construct	5	2*			F2	Generic	DMR2 Creature Catalog	112	Creatures from Unknown Lands (Statue, Animated (Mantis))
-Statue, Living, Silver	Construct	4	1+1*			F2	Generic	DMR2 Creature Catalog	70	Creatures from Unknown Lands (Statue, Animated (Silver))
-Steam Weevil	Lowlife	6	½ (1d4 hp)			NM	Generic	DMR2 Creature Catalog	102	Creatures from Unknown Lands (Steam Bug)
-Worm, Slime	Lowlife	5	10			F5	Generic	DMR2 Creature Catalog	96	Creatures from Unknown Lands (Sticky Larva)
-Strangle Vine	Lowlife	9	8 hp per 1'square			NM	Generic	DMR2 Creature Catalog	103	Creatures from Unknown Lands (Strangler Ivy)
-Helion	Monster (Planar)	1	9*			F9	Generic	Rules Cyclopedia	184	Creatures from Unknown Lands (Sun Ring)
-Diger	Monster	9	2			M2	Mystara	B3 Palace of the Silver Princess (1st Printing)	27	Creatures from Unknown Lands (Swimrock)
-Saberclaw	Monster (Enchanted)	2	5**			Varies (see below)	Generic	DMR2 Creature Catalog	89	Creatures from Unknown Lands (Sword Squad)
-Cay-Man	Humanoid	7	2			F1	Generic	DMR2 Creature Catalog	20	Creatures from Unknown Lands (Tegu (Lizard-folk))
-Killer Tree	Lowlife	5	6			F3	Generic	DMR2 Creature Catalog	64	Creatures from Unknown Lands (Thug Tree)
-Turtle, Snapping, Swamp	Animal (Normal)	0	20			F12	Mystara	CM9 Legacy of Blood	28	Creatures from Unknown Lands (Turtle, Giant)
-Ubue	Humanoid	7	3			F3	Mystara	B3 Palace of the Silver Princess (1st Printing)	29	Creatures from Unknown Lands (Ubunk)
-Kopru	Monster	3	8+4*			F9	Generic	DMR2 Creature Catalog	66	Creatures from Unknown Lands (Ulupoka)
-Wraith, Mesmer	Undead	3	7***			F7, plus immune to spells	Generic	DMR2 Creature Catalog	78	Creatures from Unknown Lands (Upyr)
-Zombie, Topi	Undead	6	3*			F2	Generic	DMR2 Creature Catalog	105	Creatures from Unknown Lands (Vodun)
-Lizard, Lava	Animal (Enchanted)	3	4*			F4	Generic	DMR2 Creature Catalog	68	Creatures from Unknown Lands (Vulcan Lizard)
-Kal-Muru (Shipbane)	Monster (Planar)	4	2*			F4	Generic	DMR2 Creature Catalog	62	Creatures from Unknown Lands (Wind of Madness)
-Wraith Lord	Undead	2	10*****			M10	Mystara	X11 Saga of the Shadow Lord	61	Creatures from Unknown Lands (Wraith Master)
-Hsiao (Guardian Owl)	Monster	5	4**-15****			C (level = HD)	Generic	Rules Cyclopedia	186	Creatures from Unknown Lands (Xiao (owl-folk))
 Aerial Servant	Monster (Planar)	0	16**	M	1d6 (1d12)	F16	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
-Animal Herd	Animal (Normal)	7	1-4	M-L	0 (3d10)	F1	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
-Animal Herd, Boar	Animal (Normal)	7	3*	M	1d6 (1d6)	F2	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
-Animal, Prehistoric, Bear, Cave	Animal (Prehistoric)	5	7	L	1d2 (1d2)	F4	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Animal, Prehistoric, Cat, Great, Tiger, Sabre-Tooth	Animal (Prehistoric)	6	8	L	1d4 (1d4)	F4	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Animal, Prehistoric, Elephant, Prehistoric (Mastodon)	Animal (Prehistoric)	3	15			F8	Generic	Rules Cyclopedia	176	Dark Dungeons Deluxe
-Animal, Prehistoric, Pterosaur, Large (Pterosaur)	Animal (Prehistoric)	5	10			F5	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
-Animal, Prehistoric, Pterosaur, Medium (Pteranodon)	Animal (Prehistoric)	6	5			F3	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
-Animal, Prehistoric, Pterosaur, Small (Pterodactyl)	Animal (Prehistoric)	7	1			F1	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
-Ant, Giant	Lowlife	3	4*	M	2d4 (4d6)	F2	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
-Ape, Snow	Animal (Normal)	6	3+1	M	0 (2d10)	F3	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
-Baboon, Rock	Animal (Normal)	6	2	M	2d6 (5d6)	F2	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe
-Basilisk	Monster	4	6+1**	L	1d6 (1d6)	F6	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bat	Animal (Normal)	6	¼ (1 hp) (S)	S	d100 (d100)	NM	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bat, Giant	Animal (Giant)	6	2	M	1d10 (1d10)	F1	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bat, Vampire, Giant	Animal (Giant)	6	2*			F1	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bear, Black	Animal (Normal)	6	4	L	1d4 (1d4)	F2	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bear, Grizzly (Brown)	Animal (Normal)	8	5	L	1 (1d4)	F4	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bear, Polar	Animal (Normal)	6	6	L	1 (1d2)	F3	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
-Bee, Giant	Lowlife	7	1/2* (1-4 hp)	S	1d6 (5d6)	F1	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe
-Beetle, Fire, Giant	Lowlife	4	1+2	S	1d8 (2d6)	F1	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe
-Beetle, Tiger, Giant	Lowlife	3	3+1	M	1d6 (2d4)	F2	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe
-Bhut	Humanoid	4	7+2**			F10	Generic	DMR2 Creature Catalog	15	Peter's Guide to Everything Else
-Blink Dog	Monster	5	4*	S	1d6 (1d6+3)	F4	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
-Brownie	Humanoid	7	2*			H2	Generic	DMR2 Creature Catalog	17	Peter's Guide to Everything Else
-Bugbear	Humanoid	5	3+1	L	2d8 (5d4)	F3	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
-Camel	Animal (Normal)	7	2	L	0 (2d4)	F1	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Cat, Great, Jaguar	Animal (Normal)	6	4+2			F2	Generic	DMR2 Creature Catalog	18	Peter's Guide to Everything Else
-Cat, Great, Lion	Animal (Normal)	6	5	L	1d4 (1d8)	F3	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Cat, Great, Lion, Mountain (Cougar, Puma)	Animal (Normal)	??	3+2	M	1d4 (1d4)	F2	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Cat, Great, Panther	Animal (Normal)	4	4	M	1d2 (1d6)	F2	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Cat, Great, Tiger	Animal (Normal)	6	6	L	1 (1d3)	F3	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Catoblepas (Nekrozen)	Monster	7	7**			F4	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
-Centaur	Monster	5	4	L	0 (2d10)	F4	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Centaur, Elk (Actaeon)	Monster	3	11**	L	0 (1)	C11	Generic	Rules Cyclopedia	156	Dark Dungeons Deluxe
-Centaur, Nuckalavee	Monster	4	11***			F11	Generic	Rules Cyclopedia	198	Dark Dungeons Deluxe
-Centipede, Giant	Lowlife	9	½ (1-4 hp)	S	2d4 (1d8)	NM	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Chimera	Monster	4	9**	L	1d2 (1d4)	F9	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
-Cockatrice	Monster	6	5**	S	1d4 (2d4)	F5	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
-Crab, Giant	Animal (Giant)	2	3	L	1d2 (1d6)	F2	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
-Crocodile	Animal (Normal)	5	2	M	0 (1d8)	F1	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
-Dolphin	Animal (Normal)	5	3*			D6	Generic	Rules Cyclopedia	167	Dark Dungeons Deluxe
-Doppleganger	Monster	5	4*			F8	Generic	Rules Cyclopedia	167	Dark Dungeons Deluxe
-Dragon Turtle	Dragon-Kin	-2	30*			F15	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe
-Dragon, Black, Huge	Dragon	-2	14****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Black, Large	Dragon	0	10+3***			F21	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Black, Small	Dragon	2	7**			F7	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Blue, Huge	Dragon	-4	18****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Blue, Large	Dragon	-2	13+3***			F27	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Blue, Small	Dragon	0	9**			F9	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Green, Huge	Dragon	-3	16****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Green, Large	Dragon	-1	12***			F24	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Green, Small	Dragon	1	8**			F8	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Red, Huge	Dragon	-5	20****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Red, Large	Dragon	-3	15***			F30	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, Red, Small	Dragon	-1	10**			F10	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, White, Huge	Dragon	-1	12****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, White, Large	Dragon	1	9***			F18	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Dragon, White, Small	Dragon	3	6**			F6	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
-Drake, Elemental	Monster (Planar)	0	6****			M12	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe
-Drake, Wood	Dragon-Kin	0	4***			M8	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe
-Dryad	Humanoid	5	2*			E4	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
-Dwarf	Demihuman	4	1			D1	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
-Elemental Ruler	Monster (Planar)	See below	41***-80***			F36	Generic	Rules Cyclopedia	176	Dark Dungeons Deluxe
-Elemental, Air	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
-Elemental, Earth	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
-Elemental, Fire	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
-Elemental, Water	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
-Elephant	Animal (Normal)	5	9*			F5	Generic	Rules Cyclopedia	176	Dark Dungeons Deluxe
-Elf	Demihuman	5	1*			E1	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
-Elf, Aquatic	Demihuman	5	1* or more			Elf of same level	Generic	DMR2 Creature Catalog	37	Peter's Guide to Everything Else
-Faerie	Humanoid	5	1+1* or more			E1 (or better)	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
-Faun (Satyr)	Humanoid	7	½			T1	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	12	Peter's Guide to Everything Else
-Ferret, Giant	Animal (Giant)	5	1+1			F1	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
-Fish, Bass, Giant	Animal (Giant)	7	2			F1	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
-Fish, Sturgeon, Giant	Animal (Giant)	0	10+2*			F5	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
-Fly, Robber	Lowlife	6	2			F1	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
-Gargoyle	Construct	5	4**			F8	Generic	Rules Cyclopedia	178	Dark Dungeons Deluxe
-Genie, Djinni, Greater (Pasha)	Monster (Planar)	-2	15***			M30	Generic	Rules Cyclopedia	167	Dark Dungeons Deluxe
-Genie, Djinni, Lesser	Monster (Planar)	5	7+1*			F14	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe
-Genie, Efreeti, Greater (Amir)	Monster (Planar)	-2	20***			M36	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
-Genie, Efreeti, Lesser	Monster (Planar)	3	10*			F15	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
-Ghoul	Undead	6	2*			F2	Generic	Rules Cyclopedia	178	Dark Dungeons Deluxe
-Giant, Athach	Humanoid (Giant)	0	14**	L	1d3 (1d6)	F14	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe
-Giant, Cloud	Humanoid (Giant)	4	13*			F12	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Giant, Cyclops	Humanoid (Giant)	5	13*	L	1 (1d4)	F13	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
-Giant, Fire	Humanoid (Giant)	4	11+2*			F11	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Giant, Frost	Humanoid (Giant)	4	10+1*			F10	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Giant, Hill	Humanoid (Giant)	4	8			F8	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Giant, Sea (Ocean)	Humanoid (Giant)	0	9*-15*			F (level = HD)	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Giant, Stone	Humanoid (Giant)	4	9			F9	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Giant, Storm	Humanoid (Giant)	2	15**			F15	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
-Gnoll	Humanoid	5	2			F2	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Gnome	Humanoid	5	1			D1	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Goblin	Humanoid	6	1-1			NM	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Golem, Amber	Construct	6	10*			F5	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Golem, Bone	Construct	2	6*			F4	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Golem, Mud	Construct	9	8*			F8	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Golem, Obsidian	Construct	3	6*			F3	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Golem, Wood	Construct	7	2+2			F1	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
-Gorgon	Monster	2	8*			F8	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
-Gremlin	Monster	7	1**			E1	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
-Griffon	Monster	5	7			F4	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
-Hag, Sea	Humanoid	4	8****			F8	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
-Halfling	Demihuman	7 (or 5, see below)	1-1			H1	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
-Harpy	Monster	7	3*			F6	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
-Haunt, Banshee	Undead	-3	13****			See below	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
-Haunt, Ghost	Undead	-2	14****			See below	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
-Haunt, Lesser	Undead	N/A	N/A			Special	Generic	DMR2 Creature Catalog	52	Peter's Guide to Everything Else (Haunt, Spook)
-Haunt, Lesser, Poltergeist	Undead	-1	12****			See below	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
-Hellhound	Monster	4	3**-7**			F3-7	Generic	Rules Cyclopedia	184	Dark Dungeons Deluxe
-Hippogriff	Monster	5	3+1			F2	Generic	Rules Cyclopedia	184	Dark Dungeons Deluxe
-Hobgoblin	Humanoid	6	1+1			F1	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
-Horse, Draft	Animal (Normal)	7	3			F2	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
-Horse, Mule	Animal (Normal)	7	2			NM	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
-Horse, Pony	Animal (Normal)	1	2			F1	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
-Horse, Riding	Animal (Normal)	7	2			F1	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
-Horse, War	Animal (Normal)	1	3			F2	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
-Hydra	Monster	5	5-12 (1 per head)			F5-12	Generic	Rules Cyclopedia	186	Dark Dungeons Deluxe
-Hydra, Flying	Monster	5	5-9*			F5-12	Generic	Rules Cyclopedia	186	Dark Dungeons Deluxe
-Hydra, Regenerating	Monster	5	5-9*			F5-12	Generic	Rules Cyclopedia	186	Dark Dungeons Deluxe
-Hydra, Sea	Monster	5	5-12 (1 per head)			F5-12	Generic	Rules Cyclopedia	52	Dark Dungeons Deluxe
-Insect Swarm	Lowlife	2*-4*	NM				Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe
-Invisible Stalker (Sshai)	Monster (Planar)	3	8*			F8	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe
-Kobold	Humanoid	7	½ (1-4 hp)			NM	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe
-Leech, Giant	Lowlife	7	6			F3	Generic	Rules Cyclopedia	188	Dark Dungeons Deluxe
-Leprechaun	Humanoid	5	¼			E1	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	30	Peter's Guide to Everything Else
-Lich	Undead	0	See above			Character type and level	Generic	Rules Cyclopedia	188	Dark Dungeons Deluxe
-Lizard, Draco, Giant	Animal (Giant)	5	4+2			F3	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
-Lizard, Gecko, Giant	Animal (Giant)	5	3+1			F2	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
-Lizard, Tuatara, Giant	Animal (Giant)	4	6			F3	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
-Lizardman	Humanoid	5	2+1			F2	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
-Lycanthrope, Werebat	Monster	4 (9) t	3+3*			F3	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Werebear	Monster	2 (8) t	6*			F6	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Wereboar	Monster	4 (9) t	4+1*			F4	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Werefox	Monster	6 (9) t	3+2*			F3	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Werejaguar	Monster	4	5+2*			F6	Generic	DMR2 Creature Catalog	72	Peter's Guide to Everything Else
-Lycanthrope, Werepig (Devil Swine)	Monster	3 (9) t	9*			F9	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Wererat	Monster	7 (9) t	3*			F3	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Weresabretooth	Monster	2	12			F12	Generic	Hollow World Campaign Set: Adventure Book	16	Peter's Guide to Everything Else
-Lycanthrope, Wereseal	Monster	5 (9) t	5+2*			F5	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Wereshark	Monster	4 (9) t	4*			F4	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Weretiger	Monster	3 (9) t	5*			F5	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Lycanthrope, Werewolf	Monster	5 (9) t	4*			F4	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
-Man, Nomad	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe
-Man, Trader	Human	5	5			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe
-Manta Ray	Animal (Normal)	6	4*			F2	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
-Manta Ray, Giant	Animal (Giant)	6	10*			F5	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
-Manticore	Monster	??	6+1*			F6	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
-Medusa	Monster	8	4**			F4 (see below)	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
-Merman	Humanoid	6	M11			F1-4	Generic	Rules Cyclopedia	194	Dark Dungeons Deluxe
-Minotaur	Monster	6	6			F6	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
-Mold, Yellow	Lowlife	Can always be hit	2*			F2	Generic	Rules Cyclopedia	213	Dark Dungeons Deluxe
-Mujina	Monster	5	8*			F8	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
-Mummy	Undead	3	5+1**			F5	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
-Neanderthal (Caveman)	Humanoid	8	2			F2	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
-Nightshade, Nightcrawler	Undead	-4	25-30*****			F25-30 and see below	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
-Nightshade, Nightwalker	Undead	-6	21-26*****			F21-26 and see below	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
-Nightshade, Nightwing	Undead	-8	17-20*****			F17-20 and see below	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
-Ogre	Humanoid	5	4+1			F4	Generic	Rules Cyclopedia	198	Dark Dungeons Deluxe
-Ooze, Black Pudding	Monster	6	10*	L	1 (0)	F5	Generic	Rules Cyclopedia	161	Dark Dungeons Deluxe
-Ooze, Gelatinous Cube	Monster	8	4*			F2	Generic	Rules Cyclopedia	178	Dark Dungeons Deluxe
-Ooze, Gray	Lowlife	8	3*			F2	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
-Ooze, Green Slime	Lowlife	Can always be hit	2**			F1	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
-Ooze, Ochre Jelly	Lowlife	8	5*			F3	Generic	Rules Cyclopedia	198	Dark Dungeons Deluxe
-Orc	Humanoid	6	1			F1	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
-Owlbear	Monster	5	5			F3	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
-Pegasus	Monster	6	2+2			F2	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
-Phantom, Apparition	Undead	0	10***			M10	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
-Phantom, Shade	Undead	0	11***			T11	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
-Phantom, Vision	Undead	0	12***			C12	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
-Pooka	Humanoid	4	2**			T2	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	34	Peter's Guide to Everything Else
-Rat	Animal (Normal)	9	1 hp			NM	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
-Rat, Giant	Animal (Giant)	7	½ (1-4 hp)			NM	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
-Rhagodessa	Lowlife	5	4+2			F2	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
-Roc, Small	Monster	4	6			F3	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
-Rust Monster	Monster	2	5*			F3	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
-Salamander, Flame	Monster (Planar)	2	8*			F8	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
-Salamander, Frost	Monster (Planar)	3	12*			F12	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
-Sasquatch (Yeti)	Humanoid	6	5*			F5	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Scorpion, Giant	Lowlife	2	4*			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Shadow	Monster	7	2+2*			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Shark, Bull	Animal (Normal)	4	2*			F1	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Shark, Great White	Animal (Normal)	4	8			F4	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Shark, Mako	Animal (Normal)	4	4			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Shrew, Giant	Animal (Giant)	4	1*			F1	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Shrieker	Lowlife	7	3			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
-Sidhe ("sh-ee")	Humanoid	Variable	1/2*			NM	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	37	Peter's Guide to Everything Else
-Skeleton	Undead	7	1			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
-Snake, Cobra, Spitting	Animal (Normal)	7	1*			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
-Snake, Constrictor	Animal (Normal)	6	5*			F3	Generic	Champions of Mystara: Explorers' Manual	58	Dark Dungeons Deluxe
-Snake, Racer, Giant	Animal (Normal)	5	2			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
-Snake, Rattler, Giant	Animal (Normal)	5	4*			F2	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
-Snake, Sea	Animal (Normal)	6	3*			F2	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
-Snake, Viper	Animal (Normal)	7	1*			F1	Generic	Champions of Mystara: Explorers' Manual	58	Dark Dungeons Deluxe
-Spectral Hound	Monster (Planar)	-2	5**			F5	Generic	Rules Cyclopedia	205	Dark Dungeons Deluxe
-Spectre	Undead	2	6**			F6	Generic	Rules Cyclopedia	205	Dark Dungeons Deluxe
-Sphinx	Monster	0	12*****			F24	Generic	Rules Cyclopedia	205	Dark Dungeons Deluxe
-Spider, Black Widow, Giant	Lowlife	6	3*			F2	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe
-Spider, Crab, Giant	Lowlife	7	2*			F1	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe
-Spider, Tarantella, Giant	Lowlife	5	4*			F2	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe
-Spider, Wood, Huge	Lowlife	6	1+3*			F1	Generic	DMR2 Creature Catalog	101	Peter's Guide to Everything Else
-Spirit, Druj	Undead	-4	14****			F14	Generic	Rules Cyclopedia	207	Dark Dungeons Deluxe
-Spirit, Odic	Undead	-4	16****			F16	Generic	Rules Cyclopedia	207	Dark Dungeons Deluxe
-Spirit, Revenant	Undead	-3	18****			F18	Generic	Rules Cyclopedia	207	Dark Dungeons Deluxe
-Sprite	Humanoid	5	1/2* (1-4 hp)			E1	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
-Sprite, Nixie	Humanoid	7	1*			E1	Generic	Rules Cyclopedia	197	Dark Dungeons Deluxe
-Sprite, Pixie	Humanoid	3	1***			E1	Generic	Rules Cyclopedia	200	Dark Dungeons Deluxe
-Statue, Living, Crystal	Construct	4	3			F3	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
-Statue, Living, Iron	Construct	2	4*			F4	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
-Stirge	Monster	7	1*			F2	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
-Toad, Giant	Animal (Giant)	1	2+2			F1	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe
-Treant	Monster	2	8*			F8	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe
-Triton	Humanoid	4-6	5***, 6***, or 7****			D11	Generic	DMR2 Creature Catalog	106	Peter's Guide to Everything Else
-Troglodyte	Humanoid	5	2*			F2	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe
-Troll	Humanoid (Giant)	4	6+3*			F6	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe
-Undine	Monster (Planar)	4	8***			F16	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe
-Unicorn	Monster	2	4*			F8	Generic	Rules Cyclopedia	211	Dark Dungeons Deluxe
-Vampire	Undead	2	7**-9**			F7-9	Generic	Rules Cyclopedia	211	Dark Dungeons Deluxe
-Vortex Creature, Blackball (Deadly Sphere, Umbral Blot)	Monster (Planar)	9	None (see below)	M	1 (1)	See below	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
-Whale, Killer (Orca)	Animal (Normal)	6	6			F3	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
-Wight	Undead	5	3*			F3	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
-Wolf	Animal (Normal)	1	2+2			F1	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
-Wolf, Dire (Worg)	Animal (Giant)	6	4+1			F2	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
-Worm, Caecilia	Lowlife	6	6*	L	1d3 (1d3)	F3	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
-Worm, Purple	Lowlife	6	15*			F8	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
-Wraith	Undead	3	4**			F4	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
-Wyvern	Dragon-Kin	3	7*			F4	Generic	Rules Cyclopedia	213	Dark Dungeons Deluxe
-Zombie	Undead	8	2			F1	Generic	Rules Cyclopedia	213	Dark Dungeons Deluxe
-Baaka	Construct	-15	100********			IM23	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	105	Dark Dungeons Deluxe (Adamant)
-Dragon, Gem, Amber, Huge	Dragon	-6	22****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Amber Dragon Queen)
-Dragon, Gem, Amber, Large	Dragon	-4	16+3***			F33	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Amber Dragon Queen)
-Dragon, Gem, Amber, Small	Dragon	-2	11**			F11	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Amber Dragon Queen)
+Albatross, Giant	Animal	4	8	L		F4	Generic	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	PD (Animal)
+Amber Lotus Flower	Lowlife	9	½ (1-4 hp)			NM	Generic	DMR2 Creature Catalog	8	TM
+Amoeba, Giant	Lowlife	9	10-15			F7	Generic	DMR2 Creature Catalog	8	Creatures from Unknown Lands
 Angel, Archon	Monster (Planar)	-6	20******	L	1d2 (1d2)	C20	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe (Angel)
-Ape, White	Animal (Normal)	6	4	M	1d6 (22d4)	F2	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe (Ape, Cave)
-Man, Headsman (and Thug)	Human	4 or better	1**-12******			T (level = HD)	Generic	Rules Cyclopedia	184	Dark Dungeons Deluxe (Assassin Subclass)
-Beetle, Oil, Giant	Lowlife	4	2*	M	1d8 (2d6)	F1	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe (Beetle, Giant Bombard)
-Man, Berserker	Human	7	1+1*	M	1d6 (3d10)	F1	Generic	Rules Cyclopedia	161	Dark Dungeons Deluxe (Berserker Subclass)
-Bird of Prey, Eagle	Animal (Normal)	7	1			NM	Generic	DMR2 Creature Catalog	36	Dark Dungeons Deluxe (Bird of Prey)
-Bird of Prey, Falcon	Animal (Normal)	8	1d6			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	Dark Dungeons Deluxe (Bird of Prey)
-Bird of Prey, Hawk	Animal (Normal)	8	½ (1-4 hp)			NM	Generic	DMR2 Creature Catalog	52	Dark Dungeons Deluxe (Bird of Prey)
-Bird of Prey, Owl	Animal (Normal)	8	1d4			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	Dark Dungeons Deluxe (Bird of Prey)
-Bird of Prey, Eagle, Giant	Animal (Giant)	5	4+2			F4	Generic	DMR2 Creature Catalog	36	Dark Dungeons Deluxe (Bird of Prey, Giant)
-Bird of Prey, Hawk, Giant	Animal (Giant)	6	3+3			F2	Generic	DMR2 Creature Catalog	52	Dark Dungeons Deluxe (Bird of Prey, Giant)
-Bird of Prey, Owl, Giant	Animal (Giant)	6	4			F2	Generic	DMR2 Creature Catalog	80	Dark Dungeons Deluxe (Bird of Prey, Giant)
-Animal Herd, Boar, Great	Animal (Giant)	3	10*	L	1d6 (1d6)	F5	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe (Boar, Giant)
-Displacer Beast	Monster	4	6*			F6	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Coerl)
-Snake, Python, Rock	Animal (Normal)	6	5*			F3	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe (Constrictor Snake)
-Animal, Prehistoric, Grangeri	Animal (Prehistoric)	5	13			F7	Generic	DMR2 Creature Catalog	9	Dark Dungeons Deluxe (Crocodile, Gargantuan)
-Crocodile, Giant (Phobosuchus, Sarcosuchus)	Animal (Giant)	1	15	L	0 (1d3)	F8	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe (Crocodile, Gargantuan)
-Crocodile, Large (Saltwater)	Animal (Normal)	3	6	L	0 (1d4)	F3	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe (Crocodile, Giant)
-Dragon, Gem, Crystal, Huge	Dragon	-1	12****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Crystal Dragon Queen)
-Dragon, Gem, Crystal, Large	Dragon	1	9***			F18	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Crystal Dragon Queen)
-Dragon, Gem, Crystal, Small	Dragon	3	6**			F6	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Crystal Dragon Queen)
-Carrion Crawler	Lowlife	7	3+1*	L	1d4 (0)	F2	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe (Cthonic Worm)
-Elf, Shadow	Demihuman	3	1+ (varies)*			Elf of same level	Generic	DMR2 Creature Catalog	27	Dark Dungeons Deluxe (Dark Elf)
-Fiend, Lesser (Roaring)	Monster (Planar)	0	25**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Balor)
-Fiend, Lesser (Howling)	Monster (Planar)	0	16**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Glabrezu)
-Fiend, Lesser (Croaking)	Monster (Planar)	0	13**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Hezrou)
-Fiend, Lesser (Hissing)	Monster (Planar)	0	22**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Marilith)
-Fiend, Lesser (Groaning)	Monster (Planar)	0	19**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Nalfeshnee)
-Fiend, Lesser (Whispering)	Monster (Planar)	0	10**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Succubus)
-Fiend, Lesser (Screaming)	Monster (Planar)	0	10**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Vrock)
-Man, Dervish	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Dervish Sublass)
-Animal, Prehistoric, Turtle, Archelon	Animal (Prehistoric)	4	6			F3	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Armored Aquatic)
-Animal, Prehistoric, Mosasaur, Tylosaurus	Animal (Prehistoric)	-2	21			F21	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Aquatic)
-Animal, Prehistoric, Sauropsida, Plesiosaurus	Animal (Prehistoric)	7	16****			F8	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe (Dinosaur, Large Aquatic)
-Dinosaur, Aquatic, Large	Animal (Prehistoric)	5-7	9-24			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Large Aquatic)
-Dinosaur, Allosaurus	Animal (Prehistoric)	5	13			F7	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Carnivore)
-Dinosaur, Land Carnivore, Large	Animal (Prehistoric)	4-6	6-20			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Large Carnivore)
-Dinosaur, Tyrannosaurus Rex	Animal (Prehistoric)	3	20*			F10	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe (Dinosaur, Large Carnivore)
-Animal, Prehistoric, Sauropsida, Tanystropheus	Animal (Prehistoric)	7	8			F4	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	31	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
-Dinosaur, Apatosaurus	Animal (Prehistoric)	5	26			F13	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
-Dinosaur, Land Herbivore, Large	Animal (Prehistoric)	5-6	13-40			F(level = ½ HD)	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
-Dinosaur, Pachycephalosaur	Animal (Prehistoric)	5, 2 (head)	8			F4	Generic	Hollow World Campaign Set: Adventure Book	24	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
-Dinosaur, Trachodon	Animal (Prehistoric)	5	14			F7	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
-Animal, Prehistoric, Ichthyosaurus	Animal (Prehistoric)	5	10			F5	Generic	Hollow World Campaign Set: Adventure Book	23	Dark Dungeons Deluxe (Dinosaur, Small Aquatic)
-Animal, Prehistoric, Nothosaur, Nothosaurus	Animal (Prehistoric)	6	7			F1	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	30	Dark Dungeons Deluxe (Dinosaur, Small Aquatic)
-Dinosaur, Aquatic, Small	Animal (Prehistoric)	7	2-8			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Small Aquatic)
-Animal, Prehistoric, Synapsid, Dimetrodon	Animal (Prehistoric)	5	7			F4	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Small Carnivore)
-Dinosaur, Land Carnivore, Small	Animal (Prehistoric)	4-5	1-5			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Small Carnivore)
-Dinosaur, Ankylosaurus	Animal (Prehistoric)	0	7			F4	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
-Dinosaur, Land Herbivore, Medium	Animal (Prehistoric)	5-6	6-12			F(level = ½ HD)	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
-Dinosaur, Land Herbivore, Small	Animal (Prehistoric)	7	1-5			F(level = ½ HD)	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
-Dinosaur, Pisanosaurus	Animal (Prehistoric)	7	1			NM	Generic	Hollow World Campaign Set: Adventure Book	25	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
-Dinosaur, Triceratops	Animal (Prehistoric)	4	20*			F10	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
-Drake, Man	Dragon-Kin	0	3***			M6	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe (Drake, Hominal)
-Drake, Cold	Dragon-Kin	0	5***			M10	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe (Drake, Mountain)
-Draeden	Monster	-20	101*******-200*******			Immortal of equivalent PP Total	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	107	Dark Dungeons Deluxe (Eldritch Abomination)
-Animal, Prehistoric, Elephant, Woolly Mammoth	Animal (Prehistoric)	3	15			F8	Generic	Hollow World Campaign Set: Adventure Book	24	Dark Dungeons Deluxe (Elephant, Prehistoric)
-Revener	Monster	-4	10*			F10	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe (Face Stealer)
-Phoenix, Lesser	Monster (Planar)	-2	18*****			F20	Generic	Rules Cyclopedia	200	Dark Dungeons Deluxe (Firebird)
-Ooze, Lava	Lowlife	5	9			F9	Generic	Rules Cyclopedia	188	Dark Dungeons Deluxe (Fireslime)
-Fish, Rock-, Giant	Animal (Giant)	1	5+5*			F3	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe (Fish, Giant Stone)
-Beholder	Monster	0/2/7	11*****	M	1 (0)	Mil	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe (Floating Horror)
-Beholder, Undead	Undead	-4/-2/3	20*******	M	1 (0)	M20	Generic	Rules Cyclopedia	161	Dark Dungeons Deluxe (Floating Undead Horror)
-Gargantua	As Monster	As Monster	8*Monster			F=HD	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe (Gargantuan Monster)
-Thoul	Monster	6	3**			F3	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Ghast)
-Animal, Prehistoric, Elk, Giant	Animal (Prehistoric)	6	8			F4	Generic	DMR2 Creature Catalog	9	Dark Dungeons Deluxe (Giant Herd Animal)
-Reindeer, Giant	Animal (Giant)	7	2			F1	Generic	Hollow World Campaign Set: Adventure Book	26	Dark Dungeons Deluxe (Giant Herd Animal)
-Animal, Prehistoric, Cat, Lion, Wakaleo	Animal (Prehistoric)	5	2+2			F1	Generic	Dragon #186	46	Dark Dungeons Deluxe (Giant Monster - Cat, Lion)
-Animal Herd, Auroch, Shaggy	Animal (Normal)	6	4			F3	Mystara (Hollow World)	HWR3 Hollow World: The Milenian Empire: Campaign Book	42	Dark Dungeons Deluxe (Giant Monster - Herd Animal)
-Snake, Rattler, Rock, Giant	Animal (Giant)	6	8**			F4	Generic	DMR2 Creature Catalog	97	Dark Dungeons Deluxe (Giant Monster - Poisonous Snake)
-Hag, Black	Humanoid	4	11****-20******			C (level = HD)	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe (Hag, Night)
+Angel, Guardian	Monster (Planar)	Special	Special			Special	Generic	Dragon #180	50	PD (Mythology)
+Animal Herd	Animal (Normal)	7	1-4	M-L	0 (3d10)	F1	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
 Animal Herd, Auroch	Animal (Normal)	5	6			F4	Generic	Hollow World Campaign Set: Adventure Book	21	Dark Dungeons Deluxe (Herd Animal)
+Animal Herd, Auroch, Shaggy	Animal (Normal)	6	4			F3	Mystara (Hollow World)	HWR3 Hollow World: The Milenian Empire: Campaign Book	42	Dark Dungeons Deluxe (Giant Monster - Herd Animal)
+Animal Herd, Boar	Animal (Normal)	7	3*	M	1d6 (1d6)	F2	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
+Animal Herd, Boar, Great	Animal (Giant)	3	10*	L	1d6 (1d6)	F5	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe (Boar, Giant)
 Animal Herd, Cow	Animal (Normal)	7	2			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Deer, Fallow	Animal (Normal)	7	2			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Elk	Animal (Normal)	7	4			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Goat	Animal (Normal)	7	1			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Goat, Mountain	Animal (Normal)	7	1+1			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Moose	Animal (Normal)	7	4			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
+Animal Herd, Pig	Animal (Normal)	7	1			F1	Generic	PC4 Night Howlers: DM's Guide	61	PD (Animal)
 Animal Herd, Sheep, Domestic	Animal (Normal)	7	1			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Sheep, Wild	Animal (Normal)	7	1+1			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
 Animal Herd, Yak	Animal (Normal)	7	4			F1	Generic	PC4 Night Howlers: DM's Guide	61	Dark Dungeons Deluxe (Herd Animal)
-Bison, Giant	Animal (Giant)	4	8			F4	Generic	Hollow World Campaign Set: Adventure Book	22	Dark Dungeons Deluxe (Herd Animal, Giant)
-Man, Bandit	Human	6	1	M	2d4 (3d10)	T1	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe (Human, Bandit)
-Man, Brigand	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Human, Bandit)
-Man, Buccaneer/Pirate	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Human, Bandit)
-Man, Normal Human	Human	9	1-1			NM	Generic	Rules Cyclopedia	197	Dark Dungeons Deluxe (Human, Commoner)
-Man, Noble	Human	2	3-8			F3-8	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Human, Noble)
-Hydrax	Monster (Planar)	2	5**-12**			F (level = 2xHD)	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe (Ice Spider)
-Golem, Bronze	Construct	0	20**			F10	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe (Iron Golem)
-Kryst	Monster (Planar)	2	9*			E9	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe (Iron Urchin)
-Dragon, Gem, Jade, Huge	Dragon	-3	16****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Jade Dragon Queen)
-Dragon, Gem, Jade, Large	Dragon	-1	12***			F24	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Jade Dragon Queen)
-Dragon, Gem, Jade, Small	Dragon	1	8**			F8	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Jade Dragon Queen)
-Lizard, Horned Chameleon, Giant	Animal (Giant)	2	5*			F3	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe (Lizard, Horned)
-Locust, Giant	Lowlife	4	2**			F2	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe (Locust, Giant)
-Man, Mystic	Human	6	4			F4	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe (Mystic Class)
-Man, Mystic, Leader	Human	3	7			F6	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe (Mystic Class)
-Dragon, Gem, Onyx, Huge	Dragon	-2	14****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Onyx Dragon Queen)
-Dragon, Gem, Onyx, Large	Dragon	0	10+3***			F21	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Onyx Dragon Queen)
-Dragon, Gem, Onyx, Small	Dragon	2	7**			F7	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Onyx Dragon Queen)
-Planar Spider	Monster (Planar)	6	5**-10** (see below)			F5	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe (Phase Spider)
-Phoenix, Greater	Monster (Planar)	2	9*****			F10	Generic	Rules Cyclopedia	200	Dark Dungeons Deluxe (Phoenix)
-Snake, Cobra, White	Animal (Normal)	6	2*			F1	Generic	HWA3 Hollow World: Nightstorm	33	Dark Dungeons Deluxe (Poisonous Snake)
-Snake, Rattler, Rock	Animal (Normal)	7	1*			F1	Generic	DMR2 Creature Catalog	97	Dark Dungeons Deluxe (Poisonous Snake)
-Snake, Viper, Pit	Animal (Normal)	6	2*			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe (Poisonous Snake)
 Animal, Prehistoric, Archaeopteryx	Animal (Prehistoric)	7	1			NM	Generic	Hollow World Campaign Set: Adventure Book	21	Dark Dungeons Deluxe (Pterosaur)
-Dinosaur, Land Carnivore, Flying	Animal (Prehistoric)	6-7	1-7			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Pterosaur)
-Roc, Giant	Monster	0	36			F18	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe (Roc, Gargantuan)
-Roc, Large	Monster	2	12			F6	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe (Rocc, Giant)
-Toad, Rock/Cave, Giant	Animal (Giant)	2	3+1*			F3	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Rockroach)
-Dragon, Gem, Ruby, Huge	Dragon	-5	20****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Ruby Dragon Queen)
-Dragon, Gem, Ruby, Large	Dragon	-3	15***			F30	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Ruby Dragon Queen)
-Dragon, Gem, Ruby, Small	Dragon	-1	10**			F10	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Ruby Dragon Queen)
-Dragon, Gem, Sapphire, Huge	Dragon	-4	18****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Sapphire Dragon Queen)
-Dragon, Gem, Sapphire, Large	Dragon	-2	13+3***			F27	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Sapphire Dragon Queen)
-Dragon, Gem, Sapphire, Small	Dragon	0	9**			F9	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Sapphire Dragon Queen)
-Manscorpion	Monster	1	8**			F8	Generic	Rules Cyclopedia	191	Dark Dungeons Deluxe (Scorpion Man)
-Dragon, Undead	Undead	5	Varies			F: HD+2	Generic	DMR2 Creature Catalog	32	Dark Dungeons Deluxe (Skeleton Dragon)
-Termite, Water, Fresh	Lowlife	6	2+1			F2	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Termite, Giant Water)
-Termite, Water, Salt	Lowlife	5	4			F3	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Termite, Giant Water)
-Statue, Living, Ooze/Rock	Construct	4	5**			D5	Generic	DMR2 Creature Catalog	70	Dark Dungeons Deluxe( Living Stone Statue)
+Animal, Prehistoric, Bear, Cave	Animal (Prehistoric)	5	7	L	1d2 (1d2)	F4	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
+Animal, Prehistoric, Cat, Great, Tiger, Sabre-Tooth	Animal (Prehistoric)	6	8	L	1d4 (1d4)	F4	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
+Animal, Prehistoric, Cat, Lion, Wakaleo	Animal (Prehistoric)	5	2+2			F1	Generic	Dragon #186	46	Dark Dungeons Deluxe (Giant Monster - Cat, Lion)
+Animal, Prehistoric, Elephant, Prehistoric (Mastodon)	Animal (Prehistoric)	3	15			F8	Generic	Rules Cyclopedia	176	Dark Dungeons Deluxe
+Animal, Prehistoric, Elephant, Woolly Mammoth	Animal (Prehistoric)	3	15			F8	Generic	Hollow World Campaign Set: Adventure Book	24	Dark Dungeons Deluxe (Elephant, Prehistoric)
+Animal, Prehistoric, Elk, Giant	Animal (Prehistoric)	6	8			F4	Generic	DMR2 Creature Catalog	9	Dark Dungeons Deluxe (Giant Herd Animal)
+Animal, Prehistoric, Grangeri	Animal (Prehistoric)	5	13			F7	Generic	DMR2 Creature Catalog	9	Dark Dungeons Deluxe (Crocodile, Gargantuan)
+Animal, Prehistoric, Hyena, Hyaenodon	Animal (Prehistoric)	7	5			F3	Generic	DMR2 Creature Catalog	9	PD (Animal)
+Animal, Prehistoric, Ichthyosaurus	Animal (Prehistoric)	5	10			F5	Generic	Hollow World Campaign Set: Adventure Book	23	Dark Dungeons Deluxe (Dinosaur, Small Aquatic)
+Animal, Prehistoric, Mosasaur, Tylosaurus	Animal (Prehistoric)	-2	21			F21	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Aquatic)
+Animal, Prehistoric, Nothosaur, Nothosaurus	Animal (Prehistoric)	6	7			F1	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	30	Dark Dungeons Deluxe (Dinosaur, Small Aquatic)
+Animal, Prehistoric, Ostrich, Phororhacos (Sword Beak)	Animal (Prehistoric)	6	3			F2	Generic	DMR2 Creature Catalog	9	PD (Animal)
+Animal, Prehistoric, Pterosaur, Large (Pterosaur)	Animal (Prehistoric)	5	10			F5	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
+Animal, Prehistoric, Pterosaur, Medium (Pteranodon)	Animal (Prehistoric)	6	5			F3	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
+Animal, Prehistoric, Pterosaur, Small (Pterodactyl)	Animal (Prehistoric)	7	1			F1	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
+Animal, Prehistoric, Rhinoceros, Baluchitherium	Animal (Prehistoric)	5	10			F5	Generic	DMR2 Creature Catalog	9	PD (Animal)
 Animal, Prehistoric, Rhinoceros, Titanothere	Animal (Prehistoric)	5	12			F6	Generic	DMR2 Creature Catalog	9	Labyrinth Lord
 Animal, Prehistoric, Rhinoceros, Woolly	Animal (Prehistoric)	4	8			F4	Generic	DMR2 Creature Catalog	87	Labyrinth Lord
-Beetle, Spitting	Lowlife	7	1			NM	Thunder Rift	Quest for the Silver Sword	16	Labyrinth Lord
-Dinosaur, Stegosaurus	Animal (Prehistoric)	6	12			F6	Generic	Hollow World Campaign Set: Adventure Book	27	Labyrinth Lord
-Dragon, Gold, Huge	Dragon	-6	22****			F36	Generic	Rules Cyclopedia	168	Labyrinth Lord
-Dragon, Gold, Large	Dragon	-4	16+3***			F33	Generic	Rules Cyclopedia	168	Labyrinth Lord
-Dragon, Gold, Small	Dragon	-2	11**			F11	Generic	Rules Cyclopedia	168	Labyrinth Lord
-Dragon, Sea	Dragon	1	8**			F8 (see below)	Generic	DMR2 Creature Catalog	31	Labyrinth Lord
-Fish, Cat-, Giant	Animal (Giant)	4	8+3*			F4	Generic	DMR2 Creature Catalog	39	Labyrinth Lord
-Octopus, Giant	Animal (Giant)	7	8			F4	Generic	DMR2 Creature Catalog	80	Labyrinth Lord
-Rhinoceros	Animal (Normal)	5	6			F3	Generic	DMR2 Creature Catalog	87	Labyrinth Lord
-Sea Serpent, Lesser	Monster	3	12-15			F6	Generic	DMR2 Creature Catalog	91	Labyrinth Lord
-Squid, Giant	Animal (Giant)	7	6			F3	Generic	DMR2 Creature Catalog	102	Labyrinth Lord
-Squid, Giant (Kraken)	Monster	0	64* (plus tentacles)			F36	Generic	DMR2 Creature Catalog	66	Labyrinth Lord
-Weasel, Giant	Animal (Giant)	7	4+4			F3	Generic	Rules Cyclopedia	212	Labyrinth Lord
-Whale, Nar	Animal (Normal)	7	12			F12	Generic	Rules Cyclopedia	212	Labyrinth Lord
-Fish, Piranha (Cold-Water), Giant	Animal (Giant)	6	3+3			F2	Generic	DMR2 Creature Catalog	40	Labyrinth Lord (Fish, Giant, Piranha)
-Whale, Great	Animal (Giant)	6	36*			F18	Generic	Rules Cyclopedia	212	Labyrinth Lord (Whale, Sperm)
-Dog, War	Animal (Normal)	7	2+2			F1	Generic	DMR2 Creature Catalog	30	Labyrinth Lord: Advanced Edition Companion
-Dragonne	Dragon-Kin	3	8*			F8	Generic	DMR2 Creature Catalog	35	Labyrinth Lord: Advanced Edition Companion
-Eel, Electric	Animal (Normal)	9	2*			F1	Generic	DMR2 Creature Catalog	36	Labyrinth Lord: Advanced Edition Companion
-Eel, Electric, Giant	Animal (Giant)	6	6*			F3	Generic	DMR2 Creature Catalog	36	Labyrinth Lord: Advanced Edition Companion
-Frog, Killer	Animal (Normal)	7	1			F3	Mystara (Blackmoor)	DA2 Temple of the Frog	13	Labyrinth Lord: Advanced Edition Companion
-Nightmare	Monster (Planar)	-4	7***			F7	Generic	DMR2 Creature Catalog	79	Labyrinth Lord: Advanced Edition Companion
-Roper	Monster	0	12***			F10	Generic	DMR2 Creature Catalog	88	Labyrinth Lord: Advanced Edition Companion
-Slug, Giant	Animal (Giant)	8	9** or more (see below)			F (level = ½ HD)	Generic	Rules Cyclopedia	204	Labyrinth Lord: Advanced Edition Companion
-Strangleweed	Lowlife	1	12*			F6	Generic	DMR2 Creature Catalog	103	Labyrinth Lord: Advanced Edition Companion
-Titan	Humanoid	-3	15********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	113	Labyrinth Lord: Advanced Edition Companion
-Beholder, Aquatic	Monster	5	13****			F13	Generic	DMR2 Creature Catalog	15	Labyrinth Lord: Advanced Edition Companion (Eye of the Deep)
-Emu	Animal (Normal)	8	2			F1	Generic	Dragon #186	46	Labyrinth Lord: Advanced Edition Companion (Flightless Bird)
-Beholder, Blast Spore	Lowlife	9	1* (1 hp)	M	1d3 (1)	F1	Generic	Rules Cyclopedia	162	Labyrinth Lord: Advanced Edition Companion (Gas Spore)
-Homunculus, Fylgar (Matter/Law)	Monster (Planar)	0	3****			M21	Generic	DMR2 Creature Catalog	57	Labyrinth Lord: Advanced Edition Companion (Homunculus)
-Homunculus, Gretch (Time/Neutral)	Monster (Planar)	0	3****			M21	Generic	DMR2 Creature Catalog	57	Labyrinth Lord: Advanced Edition Companion (Homunculus)
-Homunculus, Ulzaq (Energy/Chaos)	Monster (Planar)	0	3*****			M21	Generic	DMR2 Creature Catalog	57	Labyrinth Lord: Advanced Edition Companion (Homunculus)
-Lamara	Monster	4	8*			M8	Generic	DMR2 Creature Catalog	67	Labyrinth Lord: Advanced Edition Companion (Lamia)
-Polymar	Monster	9	10*			F5	Generic	DMR2 Creature Catalog	84	Labyrinth Lord: Advanced Edition Companion (Mimic)
-Shark-kin	Humanoid	5	2-3			F2-3	Generic	DMR2 Creature Catalog	93	Labyrinth Lord: Advanced Edition Companion (Sahuagin)
-Wychglow	Monster	0	6**			F6	Generic	DMR2 Creature Catalog	113	Labyrinth Lord: Advanced Edition Companion (Will-O’-Wisp)
-Wolf, Arctic	Animal (Normal)	6	6			F3	Generic	Hollow World Campaign Set: Adventure Book	29	Labyrinth Lord: Advanced Edition Companion (Winter Wolf)
-Cyborg	Construct	0/-1	20/22			F10/F16	Generic	DA3 City of the Gods	36	PD
-Maggot Man	Humanoid	4	2+1			F1-3	Mystara	Different Worlds #43	M6	PD
-Albatross, Giant	Animal	4	8	L		F4	Generic	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	PD (Animal)
-Animal Herd, Pig	Animal (Normal)	7	1			F1	Generic	PC4 Night Howlers: DM's Guide	61	PD (Animal)
-Animal, Prehistoric, Hyena, Hyaenodon	Animal (Prehistoric)	7	5			F3	Generic	DMR2 Creature Catalog	9	PD (Animal)
-Animal, Prehistoric, Ostrich, Phororhacos (Sword Beak)	Animal (Prehistoric)	6	3			F2	Generic	DMR2 Creature Catalog	9	PD (Animal)
-Animal, Prehistoric, Rhinoceros, Baluchitherium	Animal (Prehistoric)	5	10			F5	Generic	DMR2 Creature Catalog	9	PD (Animal)
-Cat, Great, Lion, Spotted	Animal (Normal)	6	6+2			F3	Generic	DMR2 Creature Catalog	18	PD (Animal)
-Cat, Wild	Animal (Normal)	5	1			NM	Generic	DMR2 Creature Catalog	18	PD (Animal)
-Dinosaur, Aquatic, Armored	Animal (Prehistoric)	2-4	6-9			F(level = ½ HD)	Generic	Rules Cyclopedia	165	PD (Animal)
-Dog, Dingo	Animal (Normal)	7	2			F1	Generic	Dragon #186	46	PD (Animal)
-Dustmite	Lowlife	2	1 hp**			M11	Generic	GM2 Find the Lady	53	PD (Animal)
-Echidna	Animal (Giant)	5	9*			F5	Generic	Dragon #186	46	PD (Animal)
-Gerbil	Animal (Normal)	9	1			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
-Gull, Giant	Animal	4	6*	L		F3	Generic	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	PD (Animal)
-Horse, Nag	Animal (Normal)	8	2			F1	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
-Kangaroo	Animal (Normal)	8	2			F1	Generic	Dragon #186	45	PD (Animal)
-Koala	Animal (Normal)	8	½			F1	Generic	Dragon #186	46	PD (Animal)
-Kookaburra	Animal (Normal)	7	½			F1	Generic	Dragon #186	46	PD (Animal)
-Lizard, Chameleon	Animal (Normal)	4	1			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
-Lizard, Goanna	Animal (Normal)	5	½			F1	Generic	Dragon #186	46	PD (Animal)
-Magpie	Animal (Normal)	7	1/8 (1 hp)			NM	Generic	DMR2 Creature Catalog	74	PD (Animal)
-Pelican, Giant	Animal	4	10	L		F4	Generic	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	PD (Animal)
-Raven & Crow	Animal (Normal)	8	¼ (1d2 hp)			NM	Generic	DMR2 Creature Catalog	86	PD (Animal)
-Scorpion	Lowlife	8	1/8 (hp)			NM	Generic	DMR2 Creature Catalog	90	PD (Animal)
-Seal, Fur	Animal (Normal)	7	3			F1	Generic	Dungeon #6	63	PD (Animal)
-Skunk	Animal (Normal)	7	1-1*			NM	Generic	DMR2 Creature Catalog	96	PD (Animal)
-Snake, Feathered Serpent	Animal (Normal)	6	2			F1	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	28	PD (Animal)
-Spider, White Widow	Lowlife	6	3			F3	Thunder Rift	Quest for the Silver Sword	16	PD (Animal)
-Swan	Animal (Normal)	4	2			F1	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
-Turkey, Wild	Animal (Normal)	9	½			F1	Generic	Dragon #186	46	PD (Animal)
-Dragonfly, Black	Dragon-Kin	1	3+2			F3	Generic	DMR2 Creature Catalog	34	PD (Animal, Color Variant)
-Dragonfly, Blue	Dragon-Kin	-1	4+2			F4	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
-Dragonfly, Gold	Dragon-Kin	-2	11**			F11	Mystara	Dungeon #6	62	PD (Animal, Color Variant)
-Dragonfly, Green	Dragon-Kin	0	4			F4	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
-Dragonfly, Red	Dragon-Kin	-2	5			F5	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
-Dragonfly, White	Dragon-Kin	2	3			F3	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
-Worm, Fyrsnaca	Monster	5	10*			F8	Generic	DMR2 Creature Catalog	43	PD (Animal, Color Variant)
-Worm, Red	Lowlife	7	2+2*			F3	Generic	DMR2 Creature Catalog	87	PD (Animal, Color Variant)
-Beetle, Earthquake	Monster	-6	40**			F36	Generic	DMR2 Creature Catalog	14	PD (Animal, Earthquake Beetle (Jishin-Mushi))
-Flame Wolf	Monster	-6	2**			F22	Mystara	M3 Twilight Calling	9	PD (Animal, Elemental Variant)
-Lava Fish	Monster	??	1 (1-8 hp)			??	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	38	PD (Animal, Elemental Variant)
-Termite, Water, Swamp	Lowlife	4	1+1			F1	Generic	Rules Cyclopedia	209	PD (Animal, Environmental Variant)
-Bat, Steam	Animal (Normal)	6	¼ (1 hp) (S)			NM	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	39	PD (Animal, Generic Term Variant)
-Eel, Weed	Animal (Normal)	8	1			F1	Generic	DMR2 Creature Catalog	26	PD (Animal, Generic Term Variant)
-Fish, Talking (Bradan)	Animal (Enchanted)	5	4**			F4	Mystara	PC1 Tall Tales of the Wee Folk: Adventurers Booklet	12	PD (Animal, Generic Term Variant)
-Fish, Talking, Trout	Animal (Enchanted)	6	2+2*			F4	Mystara	Dungeon #46	15	PD (Animal, Generic Term Variant)
-Guardian, Horse	Construct	4	5**			F5	Generic	DMR2 Creature Catalog	50	PD (Animal, Generic Term Variant)
-Leech, Death	Lowlife	7	8*			F8	Mystara	CM2 Death's Ride	26	PD (Animal, Generic Term Variant)
-Piranha Bird, Greater	Monster	7	2			F1	Generic	DMR2 Creature Catalog	84	PD (Animal, Generic Term Variant)
-Piranha Bird, Lesser	Monster	6	½ (1-4 hp)			NM	Generic	DMR2 Creature Catalog	84	PD (Animal, Generic Term Variant)
-Shadow Wolf	Monster	3	4+1***			M5	Generic	ST1 Up the Garden Path	16	PD (Animal, Generic Term Variant)
-Snake, Viper, Flying	Animal (Normal)	6	2**			F1	Mystara	Hollow World Campaign Set: Adventure Book	29	PD (Animal, Generic Term Variant)
-Spider, Night	Monster (Planar)	-1	20*********			M36	Mystara	M5 Talons of Night	43	PD (Animal, Generic Term Variant)
-Worm, Great Annelid	Monster	7	25-50			F10	Generic	DMR2 Creature Catalog	10	PD (Animal, Power Variant)
-Eel, Swamp, Giant	Animal (Giant)	5	6			F3	Generic	CM9 Legacy of Blood	27	PD (Animal, Size Variant)
-Fly, Horse-, Giant	Lowlife	¼	1 hp each			NM	Generic	Dungeon #46	15	PD (Animal, Size Variant)
-Magpie, Giant	Animal (Giant)	6	1+1			F1	Generic	DMR2 Creature Catalog	74	PD (Animal, Size Variant)
-Porcupine, Giant	Animal (Giant)	4	5*			F3	Generic	DMR2 Creature Catalog	85	PD (Animal, Size Variant)
-Raven & Crow, Large	Animal (Giant)	7	2+2			F1	Generic	DMR2 Creature Catalog	86	PD (Animal, Size Variant)
-Skunk, Giant	Animal (Giant)	6	3*			F2	Generic	DMR2 Creature Catalog	96	PD (Animal, Size Variant)
-Snail, Giant	Animal (Giant)	-2	9** or more (see below)			F (level = ½ HD)	Generic	Rules Cyclopedia	204	PD (Animal, Size Variant)
-Spider, Hunting, Giant	Lowlife	8	2			F2	Generic	DMR2 Creature Catalog	100	PD (Animal, Size Variant)
-Spider, Jumping, Large	Lowlife	8	1+1*			F1	Generic	Dungeon #46	15	PD (Animal, Size Variant)
-Spider, Spitting, Giant	Lowlife	7	2+1*			F1	Generic	Dungeon #39	39	PD (Animal, Size Variant)
-Termite, Giant	Lowlife	4	4			F2	Generic	Dragon #186	46	PD (Animal, Size Variant)
-Leech, Giant, Young	Lowlife	7	2			F1	Generic	The Dragon's Den: Wild Dragon Den	7	PD (Animal, Size Variant, Age Variant)
-Horse, War, Elven	Animal (Normal)	7	3			F4	Mystara	GAZ5 The Elves of Alfheim	76	PD (Animal, Terms Variant)
-Owl, Talking	Animal (Enchanted)	6	½			NM	Mystara	Dungeon #46	15	PD (Animal, Terms Variant)
-Stalwart	Human	5	9			F9	Generic	AC9 Creature Catalog	47	PD (Generic Term)
-Statue, Living, Steel	Construct	1	5**			F5	Generic	DMR2 Creature Catalog	70	PD (Generic Term, Material Variant)
-Denizens of Limbo, Lost Soul	Monster (Planar)	Special	Special			Special	Mystara	Dragon #180	50	PD (Generic Terms)
-Elemental Creatures	Monster (Planar)	Special	Special			Special	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	39	PD (Generic Terms)
-Enchanted Armour	Monster (Enchanted)	2	5			F5	Mystara	CM7 The Tree of Life	Cover/29	PD (Generic Terms)
-Errant Soul	Undead	2	6***			F6 or better	Mystara	Dragon #174	44	PD (Generic Terms)
-Frogfolk	Humanoid	6 (8)	2+1 (1+1)			F2 (F1)	Mystara (Blackmoor)	DA2 Temple of the Frog	14	PD (Generic Terms)
-Guardian, Warrior	Construct	4	5**			F5	Generic	DMR2 Creature Catalog	50	PD (Generic Terms)
-Monster Ruler	Various	As monster -6	As monster 8x			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	111	PD (Generic Terms)
-Moss, Vampire	Lowlife	9	½ (1-4 hp)			M1	Mystara	Dungeon #41	33	PD (Generic Terms)
-NPC Party	Human	By NPC Class	Variable			NPC class and level	Generic	Rules Cyclopedia	198	PD (Generic Terms)
-Portal Monster	Monster (Planar)	0	8**			F8	Thunder Rift	In the Phantom's Wake	13	PD (Generic Terms)
-Prying Eyes	Monster (Planar)	3 or 7	1/2**			M9	Mystara	CM8 The Endless Stair	28	PD (Generic Terms)
-Sand Folk	Humanoid	3-7	6			F6	Mystara (Blackmoor)	DA3 City of the Gods	40	PD (Generic Terms)
-Silver Warrior	Humanoid (Enchanted)	2 (-2)	7*			F7	Generic	DMR2 Creature Catalog	94	PD (Generic Terms)
-Spirit Lord	Monster (Planar)	-10	36			SH36	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	41	PD (Generic Terms)
-Spirit, Evil	Undead	See below	2-35			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	41	PD (Generic Terms)
-Spirit, Greater	Undead	0	9-20			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	41	PD (Generic Terms)
-Spirit, Lesser	Undead	4	1d8			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	40	PD (Generic Terms)
-Spirit, Nature	Undead	See below	2-30			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	42	PD (Generic Terms)
-Spirit, Tree (Jautama)	Undead	0	10*			M10	Mystara (Hollow World)	HWA3 Hollow World: Nightstorm	35	PD (Generic Terms)
-Undead Carcass	Undead	8	3			F3 and Special	Mystara	PC2 Top Ballista: Adventurers Booklet	26	PD (Generic Terms)
-Undead Mass	Undead	7	N/A			M16	Mystara	PC2 Top Ballista: Adventurers Booklet	30	PD (Generic Terms)
-Fish, Auratus	Animal (Normal)	9	100-600			F36	Generic	M4 Five Coins for a Kingdom	39	PD (Giant Goldfish)
-Man, Brother of Greenwood	Human	7	3			F3	Mystara (Blackmoor)	DA4 The Duchy of Ten	36	PD (Human)
-Man, Handmaiden of Death	Human	4	9			F9	Mystara (Blackmoor)	DA4 The Duchy of Ten	37	PD (Human)
-Man, Heldannic Knight	Human	3	2			C2	Mystara	Champions of Mystara: Heroes of the Princess Ark	91	PD (Human)
-Man, Heldannic Knight, Officer	Human	2	5			C5	Mystara	Champions of Mystara: Heroes of the Princess Ark	91	PD (Human)
-Man, Hide Hunter	Human	6	4			F4	Generic	DA4 The Duchy of Ten	38	PD (Human)
-Man, Isolated, Cynidicean	Human	9	1			F1	Generic	DMR2 Creature Catalog	75	PD (Human)
-Man, Isolated, Qaurik	Human	6	2			F2	Generic	DMR2 Creature Catalog	75	PD (Human)
-Man, Isolated, Traldar	Human	9	1-1			NM	Generic	DMR2 Creature Catalog	76	PD (Human)
-Man, Isolated, Traldar, Vocal	Human	9	1*			F1	Generic	DMR2 Creature Catalog	76	PD (Human)
-Man, Isolated, Traldar, Warrior	Human	6	1+1			F1	Generic	DMR2 Creature Catalog	76	PD (Human)
-Man, Primitive (Barbarian, Native, Pagan, Wild Man)	Human	Varies	1			Varies	Generic	DMR2 Creature Catalog	76	PD (Human)
-Man, Sister of Fire	Human	9	3-10			C3-10	Mystara (Blackmoor)	DA4 The Duchy of Ten	39	PD (Human)
-Man, Skandaharian Raider	Human	4	4			F4	Mystara (Blackmoor)	DA4 The Duchy of Ten	39	PD (Human)
-Angel, Guardian	Monster (Planar)	Special	Special			Special	Generic	Dragon #180	50	PD (Mythology)
-Elven Dog (Coin-Sith, Fey Hound)	Monster	3	2+3*			E3	Generic	DMR2 Creature Catalog	30	PD (Mythology)
-Faerie, Tepictoton	Humanoid	6	1**			F1	Mystara (Hollow World)	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	31	PD (Mythology)
-Haunt, Possession	Undead	Var	7-9**			C9	Generic	AC9 Creature Catalog	87	PD (Mythology)
-Nightmare Creature, Tzitzimitl	Monster (Planar)	-2	16+			F15	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	31	PD (Mythology)
-Unicorn, Colt-pixy	Animal (Enchanted)	6	3*			E3	Generic	DMR2 Creature Catalog	22	PD (Mythology)
-Vampire, Nosferatu	Undead	2	7-9**			Former character class at equivalent level	Generic	DMR2 Creature Catalog	107	PD (Mythology)
-Ghoul, Elder	Undead	5	5**			F4	Generic	DMR2 Creature Catalog	48	PD (Mythology, Age Variant)
-Dragon, Brown	Dragon	-6	22			F36	Mystara	IM1 The Immortal Storm	38	PD (Mythology, Color Variant)
-Imp, Blue	Humanoid	-5	1/2**** (1-4 hp)			M21	Mystara	GAZ3 The Principalities of Glantri	94	PD (Mythology, Color Variant)
-Imp, Red	Humanoid	-5	1/2**** (1-4 hp)			M21	Mystara	GAZ3 The Principalities of Glantri	94	PD (Mythology, Color Variant)
-Zombie, Minotaur	Undead	5	3			F1	Mystara	MSOLO2 Maze of the Riddling Minotaur	27	PD (Mythology, Combo)
-Zombie, Lightning, Greater	Undead	6	4*			F4	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	94	PD (Mythology, Elemental Variant)
-Zombie, Lightning, Lesser	Undead	8	2*			F2	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	94	PD (Mythology, Elemental Variant)
-Worm, Leviathan, Desert	Lowlife	2	60**			F36	Generic	DMR2 Creature Catalog	69	PD (Mythology, Environmental Variant)
-Worm, Leviathan, Marine	Lowlife	4	70***			F36	Generic	DMR2 Creature Catalog	69	PD (Mythology, Environmental Variant)
-Zombie, Desert	Undead	4	4+1*			F4	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	61	PD (Mythology, Environmental Variant)
-Zombie, Frost	Undead	6	2*			F2	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	16	PD (Mythology, Environmental Variant)
-Desert Ghost, Desert, Mature	Monster (Planar)	3	5**-8**			F5-8	Generic	DMR2 Creature Catalog	28	PD (Mythology, Environmental Variant, Age Variant)
-Desert Ghost, Immature	Monster (Planar)	-	4*			F4	Generic	DMR2 Creature Catalog	28	PD (Mythology, Environmental Variant, Age Variant)
-Sky Wyrm, Greater	Monster (Planar)	-10	32*****			F32	Mystara	Champions of Mystara: Heroes of the Princess Ark	94	PD (Mythology, Environmental Variant, Power Variant)
-Sky Wyrm, Lesser	Monster (Planar)	-2	16****			F16	Mystara	Champions of Mystara: Heroes of the Princess Ark	94	PD (Mythology, Environmental Variant, Power Variant)
-Dragon Guardian	Dragon	Special	Special			Special	Mystara	Dragon #170	14	PD (Mythology, Generic Term Variant)
-Dragon, Night, Greater	Undead	-5	20*****			F36	Mystara	Champions of Mystara: Heroes of the Princess Ark	92	PD (Mythology, Generic Term Variant)
-Dragon, Night, Lesser	Undead	0	9****			F9	Mystara	Champions of Mystara: Heroes of the Princess Ark	92	PD (Mythology, Generic Term Variant)
-Dragon, Snack (Twink)	Dragon	3	6**			F6	Generic	Polyhedron #51	15	PD (Mythology, Generic Term Variant)
-Ghoul, Vapour	Undead	2	3**			F5	Mystara	AC9 Creature Catalog	88	PD (Mythology, Generic Term Variant)
-Golem, Armor	Construct	2	4+1			F4	Thunder Rift	Quest for the Silver Sword	16	PD (Mythology, Generic Term Variant)
-Golem, Iron Statue, Gargantua	Construct	2	32*			??	Mystara	CM7 The Tree of Life	Cover/??	PD (Mythology, Generic Term Variant)
-Harpy, Marshmallow	Monster	7	3*			F6	Generic	Polyhedron #51	14	PD (Mythology, Generic Term Variant)
-Hydra, Pig-Headed	Monster	5	7			F7	Mystara	PC2 Top Ballista: Adventurers Booklet	28	PD (Mythology, Generic Term Variant)
-Spirit, Druj, Hand	Undead	-4	14****			F14	Mystara	Dungeon #44	30	PD (Mythology, Generic Term Variant)
-Wight, Sun	Undead	4	6**			F6	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	4	PD (Mythology, Generic Term Variant)
-Wraith, Skull	Undead	2	1+1****			M(Level of creator)	Mystara	CM8 The Endless Stair	29	PD (Mythology, Generic Term Variant)
-Ghoul, Special	Undead	5	4**			F4	Mystara	B10 Night's Dark Terror	52	PD (Mythology, Generic Term)
-Ogre, Mutant	Humanoid	5	4+1*			F4	Mystara	PC2 Top Ballista: Adventurers Booklet	30	PD (Mythology, Generic Term)
-Gargoyle, Iron	Construct	-1	16*****			F8	Generic	DMR2 Creature Catalog	44	PD (Mythology, Material Variant)
-Golem, Ice	Construct	3	3			F4	Thunder Rift	Quest for the Silver Sword	16	PD (Mythology, Material Variant)
-Golem, Rock	Construct	-2	16***			F8	Generic	DMR2 Creature Catalog	49	PD (Mythology, Material Variant)
-Golem, Silver	Construct	0	12***			F6	Generic	DMR2 Creature Catalog	49	PD (Mythology, Material Variant)
-Imp, Wood	Humanoid	6	¾ (1d6 hp)*			NM	Generic	DMR2 Creature Catalog	112	PD (Mythology, Material Variant)
-Haunt, Banshee, Lesser	Monster	3	5*			F5	Generic	DMR2 Creature Catalog	13	PD (Mythology, Power Variant)
-Lycanthrope, Wererat, Greater	Monster	7 (rat), 9 (human)	HD and hp as per previous class and level			per class and level	Generic	Dungeon #14	63	PD (Mythology, Power Variant)
-Nightmare, Lesser	Monster (Planar)	7	3+1*			F2	Generic	Escape from Thunder Rift	31	PD (Mythology, Power Variant)
-Sea Serpent, Greater	Monster	5	6			F3	Generic	DMR2 Creature Catalog	91	PD (Mythology, Power Variant)
-Snap Dragon, Flower	Lowlife	9	1 hp*			F1	Generic	ST1 Up the Garden Path	16	PD (Plant)
-Wolfsbane	Lowlife	9	1 hp			NM	Mystara	PC4 Night Howlers: DM's Guide	63	PD (Plant)
-Snap Dragon, Pollen Dragon	Lowlife	3	2+2*			F6	Generic	ST1 Up the Garden Path	16	PD (Plant, Generic Term Variant)
-Robot, Defense (DBOT)	Construct	-2	24*			F16	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
-Robot, Ecology (EBOT)	Construct	0	20*			F14	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
-Robot, Security (SBOT)	Construct	0	12*			F10	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
-Robot, Utility (UBOT)	Construct	3	6			F6	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
-Snakemen	Humanoid	-5	31			EM1	Mystara	IM1 The Immortal Storm	40	PD (Snakefolk)
-Cat, Great, Cheetah	Animal (Normal)	5	3*			F2	Generic	DMR2 Creature Catalog	18	SRD
-Choker	Humanoid	4	3*			F3	Generic	DMR2 Creature Catalog	21	SRD
-Horse, War, Light	Animal (Normal)	7	2+2			F1	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	SRD
-Ice Wolf (Quarg)	Monster	4	3-5+1**			F4-6	Generic	DMR2 Creature Catalog	60	SRD
-Monkey	Animal (Normal)	7	1			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	SRD
-Yowler	Monster	0	3+3**			M11	Generic	DMR2 Creature Catalog	117	SRD
-Protean, Astral	Monster (Planar)	0	90			F36	Generic	IM1 The Immortal Storm	40	SRD (Hagunemnon (Protean))
-Scamille	Monster	5	10*			F7	Generic	DMR2 Creature Catalog	89	SRD (Phasm)
-Amber Lotus Flower	Lowlife	9	½ (1-4 hp)			NM	Generic	DMR2 Creature Catalog	8	TM
+Animal, Prehistoric, Sauropsida, Plesiosaurus	Animal (Prehistoric)	7	16****			F8	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe (Dinosaur, Large Aquatic)
+Animal, Prehistoric, Sauropsida, Tanystropheus	Animal (Prehistoric)	7	8			F4	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	31	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
+Animal, Prehistoric, Sloth, Megatherium	Animal (Prehistoric)	6	11			F6	Generic	DMR2 Creature Catalog	9	Creatures from Unknown Lands
+Animal, Prehistoric, Synapsid, Dimetrodon	Animal (Prehistoric)	5	7			F4	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Small Carnivore)
+Animal, Prehistoric, Turtle, Archelon	Animal (Prehistoric)	4	6			F3	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Armored Aquatic)
+Ant, Giant	Lowlife	3	4*	M	2d4 (4d6)	F2	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
+Ape, Snow	Animal (Normal)	6	3+1	M	0 (2d10)	F3	Generic	Rules Cyclopedia	157	Dark Dungeons Deluxe
+Ape, White	Animal (Normal)	6	4	M	1d6 (22d4)	F2	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe (Ape, Cave)
+Aranea	Monster	7	3**			M3	Generic	DMR2 Creature Catalog	11	Creatures from Unknown Lands (Arachnea)
+Archer Bush	Lowlife	7	2			F1	Generic	DMR2 Creature Catalog	11	The Tome of Horrors Complete
+Ash Crawler	Monster	6	3+1			F1 (Special)	Generic	DMR2 Creature Catalog	12	TM (Lava Rat)
+Baaka	Construct	-15	100********			IM23	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	105	Dark Dungeons Deluxe (Adamant)
 Baaka, Megalith	Monster (Planar)	-5 (core) or +15 (mantle)	Unknown			EM5	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	42	TM
+Baboon, Rock	Animal (Normal)	6	2	M	2d6 (5d6)	F2	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe
 Baldandar	Humanoid	3	6****			F12	Generic	DMR2 Creature Catalog	12	TM
+Bao she		4	4***	M		T5	Calidar	https://bruce-heard.blogspot.com/2020/06/Baoshe.html		
+Basilisk	Monster	4	6+1**	L	1d6 (1d6)	F6	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
+Bat	Animal (Normal)	6	¼ (1 hp) (S)	S	d100 (d100)	NM	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
+Bat, Giant	Animal (Giant)	6	2	M	1d10 (1d10)	F1	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
 Bat, Skinwing	Animal (Normal)	4	1-10			See below	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	39	TM
+Bat, Steam	Animal (Normal)	6	¼ (1 hp) (S)			NM	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	39	PD (Animal, Generic Term Variant)
+Bat, Vampire, Giant	Animal (Giant)	6	2*			F1	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
 Bat, Vampire, Zargosian	Animal (Normal)	6	4+3*			F2	Mystara (Hollow World)	HWR3 Hollow World: The Milenian Empire: Campaign Book	42	TM
+Bear, Black	Animal (Normal)	6	4	L	1d4 (1d4)	F2	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
+Bear, Grizzly (Brown)	Animal (Normal)	8	5	L	1 (1d4)	F4	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
+Bear, Polar	Animal (Normal)	6	6	L	1 (1d2)	F3	Generic	Rules Cyclopedia	159	Dark Dungeons Deluxe
 Beastman, Gruquotec	Humanoid	7	3+1			F4	Mystara (Hollow World)	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	16	TM
+Bee, Giant	Lowlife	7	1/2* (1-4 hp)	S	1d6 (5d6)	F1	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe
+Beetle, Earthquake	Monster	-6	40**			F36	Generic	DMR2 Creature Catalog	14	PD (Animal, Earthquake Beetle (Jishin-Mushi))
+Beetle, Fire, Giant	Lowlife	4	1+2	S	1d8 (2d6)	F1	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe
+Beetle, Oil, Giant	Lowlife	4	2*	M	1d8 (2d6)	F1	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe (Beetle, Giant Bombard)
+Beetle, Spitting	Lowlife	7	1			NM	Thunder Rift	Quest for the Silver Sword	16	Labyrinth Lord
+Beetle, Tiger, Giant	Lowlife	3	3+1	M	1d6 (2d4)	F2	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe
+Beholder	Monster	0/2/7	11*****	M	1 (0)	Mil	Generic	Rules Cyclopedia	160	Dark Dungeons Deluxe (Floating Horror)
+Beholder, Aquatic	Monster	5	13****			F13	Generic	DMR2 Creature Catalog	15	Labyrinth Lord: Advanced Edition Companion (Eye of the Deep)
+Beholder, Blast Spore	Lowlife	9	1* (1 hp)	M	1d3 (1)	F1	Generic	Rules Cyclopedia	162	Labyrinth Lord: Advanced Edition Companion (Gas Spore)
 Beholder, Sporacle	Monster	0 (tentacles: 4)	7***			See below	Generic	Rules Cyclopedia	208	TM
+Beholder, Undead	Undead	-4/-2/3	20*******	M	1 (0)	M20	Generic	Rules Cyclopedia	161	Dark Dungeons Deluxe (Floating Undead Horror)
+Bhut	Humanoid	4	7+2**			F10	Generic	DMR2 Creature Catalog	15	Dark Dungeons Deluxe
+Bird of Prey, Eagle	Animal (Normal)	7	1			NM	Generic	DMR2 Creature Catalog	36	Dark Dungeons Deluxe (Bird of Prey)
+Bird of Prey, Eagle, Giant	Animal (Giant)	5	4+2			F4	Generic	DMR2 Creature Catalog	36	Dark Dungeons Deluxe (Bird of Prey, Giant)
+Bird of Prey, Falcon	Animal (Normal)	8	1d6			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	Dark Dungeons Deluxe (Bird of Prey)
+Bird of Prey, Hawk	Animal (Normal)	8	½ (1-4 hp)			NM	Generic	DMR2 Creature Catalog	52	Dark Dungeons Deluxe (Bird of Prey)
+Bird of Prey, Hawk, Giant	Animal (Giant)	6	3+3			F2	Generic	DMR2 Creature Catalog	52	Dark Dungeons Deluxe (Bird of Prey, Giant)
+Bird of Prey, Owl	Animal (Normal)	8	1d4			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	Dark Dungeons Deluxe (Bird of Prey)
+Bird of Prey, Owl, Giant	Animal (Giant)	6	4			F2	Generic	DMR2 Creature Catalog	80	Dark Dungeons Deluxe (Bird of Prey, Giant)
+Bison, Giant	Animal (Giant)	4	8			F4	Generic	Hollow World Campaign Set: Adventure Book	22	Dark Dungeons Deluxe (Herd Animal, Giant)
+Blink Dog	Monster	5	4*	S	1d6 (1d6+3)	F4	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
 Boneless	Lowlife	0	10**			F10	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	40	TM
 Bounder	Monster	5	4			F2	Mystara	Hollow World Campaign Set: Adventure Book	17	TM
+Brain Collector (Neh-Thalggu)	Monster (Planar)	2	10*			F10	Generic	DMR2 Creature Catalog	16	Creatures from Unknown Lands (Brainstormer)
+Brownie	Humanoid	7	2*			H2	Generic	DMR2 Creature Catalog	17	Dark Dungeons Deluxe
+Brownie, Redcap	Humanoid	7	2*			H2	Generic	DMR2 Creature Catalog	17	The Tome of Horrors Complete
+Bubble	Monster	9	½			F1	Mystara	B3 Palace of the Silver Princess (1st Printing)	26	Creatures from Unknown Lands (Magic Sphere)
+Bugbear	Humanoid	5	3+1	L	2d8 (5d4)	F3	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
 Camarilla	Monster	3	6*			F3	Mystara (Blackmoor)	DA3 City of the Gods	36	TM
+Camel	Animal (Normal)	7	2	L	0 (2d4)	F1	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
 Carcus Critter	Monster	6	4+2			F3	Mystara	Different Worlds #43	M7	TM
+Carnifex	Humanoid	-6 to -13	18			Class 18	Mystara	M3 Twilight Calling	25	TM (Raptorfolk)
+Carrion Crawler	Lowlife	7	3+1*	L	1d4 (0)	F2	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe (Cthonic Worm)
 Carrion Crawler, Gridbug	Lowlife	7	3+1*			F2	Mystara (Hollow World)	HWA1 Hollow World: Nightwail	62	TM
+Cat, Bekkah	Animal (Normal)	4	12*			F6	Generic	DMR2 Creature Catalog	18	TM (Panther, Black)
+Cat, Great, Cheetah	Animal (Normal)	5	3*			F2	Generic	DMR2 Creature Catalog	18	SRD
+Cat, Great, Jaguar	Animal (Normal)	6	4+2			F2	Generic	DMR2 Creature Catalog	18	Dark Dungeons Deluxe
+Cat, Great, Lion	Animal (Normal)	6	5	L	1d4 (1d8)	F3	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
+Cat, Great, Lion, Mountain (Cougar, Puma)	Animal (Normal)	??	3+2	M	1d4 (1d4)	F2	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
 Cat, Great, Lion, Seergar	Animal (Normal)	5	5+5			F5	Mystara	GAZ8 The Five Shires: Dungeon Masters Booklet	67	TM
+Cat, Great, Lion, Spotted	Animal (Normal)	6	6+2			F3	Generic	DMR2 Creature Catalog	18	PD (Animal)
+Cat, Great, Panther	Animal (Normal)	4	4	M	1d2 (1d6)	F2	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
+Cat, Great, Tiger	Animal (Normal)	6	6	L	1 (1d3)	F3	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
+Cat, Lynx	Animal (Normal)	5	2+2			F1	Generic	DMR2 Creature Catalog	18	The Tome of Horrors Complete
+Cat, Wild	Animal (Normal)	5	1			NM	Generic	DMR2 Creature Catalog	18	PD (Animal)
+Catoblepas (Nekrozen)	Monster	7	7**			F4	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
+Cay-Man	Humanoid	7	2			F1	Generic	DMR2 Creature Catalog	20	Creatures from Unknown Lands (Tegu (Lizard-folk))
+Centaur	Monster	5	4	L	0 (2d10)	F4	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
+Centaur, Chevall	Monster	2/5	7*			F7	Generic	DMR2 Creature Catalog	21	Creatures from Unknown Lands (Legendary Horse)
+Centaur, Elk (Actaeon)	Monster	3	11**	L	0 (1)	C11	Generic	Rules Cyclopedia	156	Dark Dungeons Deluxe
+Centaur, Nuckalavee	Monster	4	11***			F11	Generic	Rules Cyclopedia	198	Dark Dungeons Deluxe
+Centaur, Pegataur	Monster	5 or better	5*-14***			E1-10 or F5-14	Generic	DMR2 Creature Catalog	82	Creatures from Unknown Lands
 Centaur, Pegataur, Undead	Undead	0	9			Special	Mystara	PC2 Top Ballista: Adventurers Booklet	26	TM
+Centipede, Giant	Lowlife	9	½ (1-4 hp)	S	2d4 (1d8)	NM	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
 Cestian Gobbler	Lowlife	6	3-6***			F3-6	Mystara	Champions of Mystara: Heroes of the Princess Ark	91	TM
+Chameleon Man	Humanoid	9	2*			F2	Generic	DMR2 Creature Catalog	20	Creatures from Unknown Lands (Neskakari (Chameleon Folk))
 Changeling, Zargosian	Humanoid	8	1*			F1	Mystara (Hollow World)	HWR3 Hollow World: The Milenian Empire: Campaign Book	43	TM
 Chimer	Lowlife	0	20****			F20	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	18	TM
 Chimer, Crystalweed	Lowlife	??	??			??	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	19	TM
+Chimera	Monster	4	9**	L	1d2 (1d4)	F9	Generic	Rules Cyclopedia	163	Dark Dungeons Deluxe
+Chimera, Undead	Undead	4	9****			F9	Mystara	X11 Saga of the Shadow Lord	61	Creatures from Unknown Lands (Skeleton, Chimera)
+Choker	Humanoid	4	3*			F3	Generic	DMR2 Creature Catalog	21	SRD
+Cockatrice	Monster	6	5**	S	1d4 (2d4)	F5	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
+Crab, Giant	Animal (Giant)	2	3	L	1d2 (1d6)	F2	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
+Crocodile	Animal (Normal)	5	2	M	0 (1d8)	F1	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
+Crocodile, Giant (Phobosuchus, Sarcosuchus)	Animal (Giant)	1	15	L	0 (1d3)	F8	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe (Crocodile, Gargantuan)
+Crocodile, Large (Saltwater)	Animal (Normal)	3	6	L	0 (1d4)	F3	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe (Crocodile, Giant)
+Crocotaur		3	8****	L		F8	Calidar	https://bruce-heard.blogspot.com/2020/06/Crocotaur.html		
+Cryion	Humanoid	6	2+1**			F2	Generic	DMR2 Creature Catalog	23	TM (Batfolk)
+Cyborg	Construct	0/-1	20/22			F10/F16	Generic	DA3 City of the Gods	36	PD
 Cyborg, Oard	Construct	0	7***			D10	Mystara	CM6 Where Chaos Reigns	POS2	TM
 Dark Wing	Humanoid	5	3*			F3	Generic	DMR2 Creature Catalog	24	TM
 Darkhood (Rorphyr)	Undead	-2	13*			M13	Generic	DMR2 Creature Catalog	25	TM
 Darksnap	Lowlife	6	1-4			F1	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	40	TM
+Death Fiend (Ostegos)	Monster (Planar)	4	7**			F7	Generic	DMR2 Creature Catalog	26	Creatures from Unknown Lands (Bonewing)
 Death-From-Above	Monster	6	3 (hp 20)			F1	Mystara	Dungeon #24	24	TM
 Debek		2	4*****	S		F7	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
+Decapus (Land or Marine)	Monster	5	4			F2	Generic	DMR2 Creature Catalog	26	The Tome of Horrors Complete
 Deep Glaurant	Monster	4	7*			F8	Generic	DMR2 Creature Catalog	27	TM
+Demigod, Initiate		-1	28+20	L		C36	Generic	https://bruce-heard.blogspot.com/2020/05/Attaining-Demigodhood.html		
+Demigod, Paragon		-7	52+40	L		C36	Generic	https://bruce-heard.blogspot.com/2020/05/Attaining-Demigodhood.html		
+Demigod, Temporal		-4	40+30	L		C36	Generic	https://bruce-heard.blogspot.com/2020/05/Attaining-Demigodhood.html		
 Demon, Cur	Monster (Planar)	7	2+4***	M		F2	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	5	TM
 Demon, Dark Lord/Lady	Monster (Planar)	-4	32+20**********	L		F32	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	5	TM
 Demon, Dark Prince/Princess	Monster (Planar)	-6	64+24***********	L		F36	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
@@ -686,175 +157,704 @@ Demon, Frack	Monster (Planar)	1	10+12*******	L		F10	Calidar	CAL2a Conversion Gui
 Demon, Hellion	Monster (Planar)	4	6+8****	M		F6	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	5	TM
 Demon, Sha-Kreeg	Monster (Planar)	0	12***			F16	Pelinore	GM1 A Flight of Eagles	44	TM
 Denizens of Limbo, Discord	Monster (Planar)	Special	Special			Special	Mystara	Dragon #180	50	TM
+Denizens of Limbo, Lost Soul	Monster (Planar)	Special	Special			Special	Mystara	Dragon #180	50	PD (Generic Terms)
 Denizens of Limbo, Master of Chaos	Monster (Planar)	Special	Special			Special	Mystara	Dragon #180	50	TM
 Denizens of Limbo, Minion of Chaos	Monster (Planar)	Special	Special			Special	Mystara	Dragon #180	50	TM
+Desert Ghost, Desert, Mature	Monster (Planar)	3	5**-8**			F5-8	Generic	DMR2 Creature Catalog	28	PD (Mythology, Environmental Variant, Age Variant)
+Desert Ghost, Immature	Monster (Planar)	-	4*			F4	Generic	DMR2 Creature Catalog	28	PD (Mythology, Environmental Variant, Age Variant)
 Devilfish	Monster	6	1 or more (see below)				Generic	Rules Cyclopedia	165	TM
+Diger	Monster	9	2			M2	Mystara	B3 Palace of the Silver Princess (1st Printing)	27	Creatures from Unknown Lands (Swimrock)
+Dinosaur, Allosaurus	Animal (Prehistoric)	5	13			F7	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Carnivore)
+Dinosaur, Ankylosaurus	Animal (Prehistoric)	0	7			F4	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
+Dinosaur, Apatosaurus	Animal (Prehistoric)	5	26			F13	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
+Dinosaur, Aquatic, Armored	Animal (Prehistoric)	2-4	6-9			F(level = ½ HD)	Generic	Rules Cyclopedia	165	PD (Animal)
+Dinosaur, Aquatic, Large	Animal (Prehistoric)	5-7	9-24			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Large Aquatic)
+Dinosaur, Aquatic, Small	Animal (Prehistoric)	7	2-8			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Small Aquatic)
 Dinosaur, Deinonychus, Dream-Hunter	Animal (Prehistoric)	5	3			F2	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	22	TM
+Dinosaur, Lake Klintest Monster (Lochnar)	Animal (Prehistoric)	4	13			F13	Generic	GAZ6 The Dwarves of Rockhome	73	Creatures from Unknown Lands (Loch Monster)
+Dinosaur, Land Carnivore, Flying	Animal (Prehistoric)	6-7	1-7			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Pterosaur)
+Dinosaur, Land Carnivore, Large	Animal (Prehistoric)	4-6	6-20			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Large Carnivore)
+Dinosaur, Land Carnivore, Small	Animal (Prehistoric)	4-5	1-5			F(level = ½ HD)	Generic	Rules Cyclopedia	165	Dark Dungeons Deluxe (Dinosaur, Small Carnivore)
+Dinosaur, Land Herbivore, Large	Animal (Prehistoric)	5-6	13-40			F(level = ½ HD)	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
+Dinosaur, Land Herbivore, Medium	Animal (Prehistoric)	5-6	6-12			F(level = ½ HD)	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
+Dinosaur, Land Herbivore, Small	Animal (Prehistoric)	7	1-5			F(level = ½ HD)	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
+Dinosaur, Pachycephalosaur	Animal (Prehistoric)	5, 2 (head)	8			F4	Generic	Hollow World Campaign Set: Adventure Book	24	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
+Dinosaur, Pisanosaurus	Animal (Prehistoric)	7	1			NM	Generic	Hollow World Campaign Set: Adventure Book	25	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
+Dinosaur, Stegosaurus	Animal (Prehistoric)	6	12			F6	Generic	Hollow World Campaign Set: Adventure Book	27	Labyrinth Lord
+Dinosaur, Trachodon	Animal (Prehistoric)	5	14			F7	Generic	DMR2 Creature Catalog	29	Dark Dungeons Deluxe (Dinosaur, Large Herbivore)
+Dinosaur, Triceratops	Animal (Prehistoric)	4	20*			F10	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Dinosaur, Small Herbivore)
+Dinosaur, Tyrannosaurus Rex	Animal (Prehistoric)	3	20*			F10	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe (Dinosaur, Large Carnivore)
+Displacer Beast	Monster	4	6*			F6	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe (Coerl)
+Dog	Animal (Normal)	7	2			F1	Generic	DMR2 Creature Catalog	30	Creatures from Unknown Lands (Dog, Normal)
+Dog, Dingo	Animal (Normal)	7	2			F1	Generic	Dragon #186	46	PD (Animal)
 Dog, Hound, Amorian	Animal (Normal)	6	3+1			F1	Mystara (Hollow World)	HWR3 Hollow World: The Milenian Empire: Campaign Book	41	TM
+Dog, War	Animal (Normal)	7	2+2			F1	Generic	DMR2 Creature Catalog	30	Labyrinth Lord: Advanced Edition Companion
+Dolphin	Animal (Normal)	5	3*			D6	Generic	Rules Cyclopedia	167	Dark Dungeons Deluxe
+Doppleganger	Monster	5	4*			F8	Generic	Rules Cyclopedia	167	Dark Dungeons Deluxe
 Dove, Birch	Animal (Normal)	-4	1 hp			NM	Mystara	GAZ4 The Kingdom of Ierendi	51	TM
 Draecan, Commander	Undead Construct	2	20+2*****	L		F15	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	7	TM
 Draecan, Lesser	Dragon-Kin	3	4+2****	L		F7	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	7	TM
+Draeden	Monster	-20	101*******-200*******			Immortal of equivalent PP Total	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	107	Dark Dungeons Deluxe (Eldritch Abomination)
+Dragon Guardian	Dragon	Special	Special			Special	Mystara	Dragon #170	14	PD (Mythology, Generic Term Variant)
 Dragon Soul	Undead	9	1-3*			F20	Mystara	Dragon #170	14	TM
+Dragon Spirit							Mystara	Dragon #158	11	TM (Spirit Dragon)
+Dragon Turtle	Dragon-Kin	-2	30*			F15	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe
+Dragon, Black, Huge	Dragon	-2	14****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Black, Large	Dragon	0	10+3***			F21	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Black, Small	Dragon	2	7**			F7	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Blue, Huge	Dragon	-4	18****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Blue, Large	Dragon	-2	13+3***			F27	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Blue, Small	Dragon	0	9**			F9	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Brown	Dragon	-6	22			F36	Mystara	IM1 The Immortal Storm	38	PD (Mythology, Color Variant)
+Dragon, Gem, Amber, Huge	Dragon	-6	22****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Amber Dragon Queen)
+Dragon, Gem, Amber, Large	Dragon	-4	16+3***			F33	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Amber Dragon Queen)
+Dragon, Gem, Amber, Small	Dragon	-2	11**			F11	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Amber Dragon Queen)
+Dragon, Gem, Crystal, Huge	Dragon	-1	12****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Crystal Dragon Queen)
+Dragon, Gem, Crystal, Large	Dragon	1	9***			F18	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Crystal Dragon Queen)
+Dragon, Gem, Crystal, Small	Dragon	3	6**			F6	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Crystal Dragon Queen)
+Dragon, Gem, Jade, Huge	Dragon	-3	16****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Jade Dragon Queen)
+Dragon, Gem, Jade, Large	Dragon	-1	12***			F24	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Jade Dragon Queen)
+Dragon, Gem, Jade, Small	Dragon	1	8**			F8	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Jade Dragon Queen)
+Dragon, Gem, Onyx, Huge	Dragon	-2	14****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Onyx Dragon Queen)
+Dragon, Gem, Onyx, Large	Dragon	0	10+3***			F21	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Onyx Dragon Queen)
+Dragon, Gem, Onyx, Small	Dragon	2	7**			F7	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Onyx Dragon Queen)
+Dragon, Gem, Ruby, Huge	Dragon	-5	20****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Ruby Dragon Queen)
+Dragon, Gem, Ruby, Large	Dragon	-3	15***			F30	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Ruby Dragon Queen)
+Dragon, Gem, Ruby, Small	Dragon	-1	10**			F10	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Ruby Dragon Queen)
+Dragon, Gem, Sapphire, Huge	Dragon	-4	18****			F36	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Sapphire Dragon Queen)
+Dragon, Gem, Sapphire, Large	Dragon	-2	13+3***			F27	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Sapphire Dragon Queen)
+Dragon, Gem, Sapphire, Small	Dragon	0	9**			F9	Generic	Rules Cyclopedia	171	Dark Dungeons Deluxe (Sapphire Dragon Queen)
+Dragon, Gold, Huge	Dragon	-6	22****			F36	Generic	Rules Cyclopedia	168	Labyrinth Lord
+Dragon, Gold, Large	Dragon	-4	16+3***			F33	Generic	Rules Cyclopedia	168	Labyrinth Lord
+Dragon, Gold, Small	Dragon	-2	11**			F11	Generic	Rules Cyclopedia	168	Labyrinth Lord
+Dragon, Green, Huge	Dragon	-3	16****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Green, Large	Dragon	-1	12***			F24	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Green, Small	Dragon	1	8**			F8	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Night, Greater	Undead	-5	20*****			F36	Mystara	Champions of Mystara: Heroes of the Princess Ark	92	PD (Mythology, Generic Term Variant)
+Dragon, Night, Lesser	Undead	0	9****			F9	Mystara	Champions of Mystara: Heroes of the Princess Ark	92	PD (Mythology, Generic Term Variant)
+Dragon, Red, Huge	Dragon	-5	20****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Red, Large	Dragon	-3	15***			F30	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Red, Small	Dragon	-1	10**			F10	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, Sea	Dragon	1	8**			F8 (see below)	Generic	DMR2 Creature Catalog	31	Labyrinth Lord
+Dragon, Snack (Twink)	Dragon	3	6**			F6	Generic	Polyhedron #51	15	PD (Mythology, Generic Term Variant)
 Dragon, Sophie	Dragon	-9	80			F60	Mystara	Different Worlds #43	M7	TM
+Dragon, Undead	Undead	5	Varies			F: HD+2	Generic	DMR2 Creature Catalog	32	Dark Dungeons Deluxe (Skeleton Dragon)
+Dragon, White, Huge	Dragon	-1	12****			F36	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, White, Large	Dragon	1	9***			F18	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragon, White, Small	Dragon	3	6**			F6	Generic	Rules Cyclopedia	168	Dark Dungeons Deluxe
+Dragonfly, Black	Dragon-Kin	1	3+2			F3	Generic	DMR2 Creature Catalog	34	PD (Animal, Color Variant)
+Dragonfly, Blue	Dragon-Kin	-1	4+2			F4	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
+Dragonfly, Gold	Dragon-Kin	-2	11**			F11	Mystara	Dungeon #6	62	PD (Animal, Color Variant)
+Dragonfly, Green	Dragon-Kin	0	4			F4	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
+Dragonfly, Red	Dragon-Kin	-2	5			F5	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
+Dragonfly, White	Dragon-Kin	2	3			F3	Generic	DMR2 Creature Catalog	24	PD (Animal, Color Variant)
+Dragonne	Dragon-Kin	3	8*			F8	Generic	DMR2 Creature Catalog	35	Labyrinth Lord: Advanced Edition Companion
+Drake, Cold	Dragon-Kin	0	5***			M10	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe (Drake, Mountain)
+Drake, Elemental	Monster (Planar)	0	6****			M12	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe
+Drake, Man	Dragon-Kin	0	3***			M6	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe (Drake, Hominal)
+Drake, Wood	Dragon-Kin	0	4***			M8	Generic	Rules Cyclopedia	173	Dark Dungeons Deluxe
+Dryad	Humanoid	5	2*			E4	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
+Dusker	Construct	7	2**			F2	Mystara	M5 Talons of Night	42	Creatures from Unknown Lands (Morpher)
+Dusker, Brute	Construct	7	4**			F4	Mystara	M5 Talons of Night	42	Creatures from Unknown Lands (Morpher)
+Dusker, Giant	Construct	7	8**			F8	Mystara	M5 Talons of Night	42	Creatures from Unknown Lands (Morpher)
+Dustmite	Lowlife	2	1 hp**			M11	Generic	GM2 Find the Lady	53	PD (Animal)
+Dwarf	Demihuman	4	1			D1	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
+Ebon Tiger	Monster	6	6**			M3	Thunder Rift	Rage of the Rakasta	16	TM (Ebony Tiger)
+Echidna	Animal (Giant)	5	9*			F5	Generic	Dragon #186	46	PD (Animal)
+Eel, Electric	Animal (Normal)	9	2*			F1	Generic	DMR2 Creature Catalog	36	Labyrinth Lord: Advanced Edition Companion
+Eel, Electric, Giant	Animal (Giant)	6	6*			F3	Generic	DMR2 Creature Catalog	36	Labyrinth Lord: Advanced Edition Companion
 Eel, Nightgleet	Animal (Normal)	7	3*			F3	Mystara	GAZ8 The Five Shires: Dungeon Masters Booklet	66	TM
+Eel, Swamp, Giant	Animal (Giant)	5	6			F3	Generic	CM9 Legacy of Blood	27	PD (Animal, Size Variant)
+Eel, Weed	Animal (Normal)	8	1			F1	Generic	DMR2 Creature Catalog	26	PD (Animal, Generic Term Variant)
+Eerie		4	4***	M		F4	Calidar	https://bruce-heard.blogspot.com/2020/05/eerie-monster.html		
 Elemaster	Monster (Planar)	-18	42			HI2	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	40	TM
+Elemental Creatures	Monster (Planar)	Special	Special			Special	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	39	PD (Generic Terms)
+Elemental Ruler	Monster (Planar)	See below	41***-80***			F36	Generic	Rules Cyclopedia	176	Dark Dungeons Deluxe
+Elemental, Air	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
+Elemental, Earth	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
+Elemental, Fire	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
+Elemental, Water	Monster (Planar)	2,0, or -2 (see below)	8, 12, or 16 (see below)			F8-16 (see below)	Generic	Rules Cyclopedia	175	Dark Dungeons Deluxe
+Elephant	Animal (Normal)	5	9*			F5	Generic	Rules Cyclopedia	176	Dark Dungeons Deluxe
 Elephant, Leveller (Bodendruker)	Monster	1	45**			F36	Mystara	AC9 Creature Catalog	73	TM
+Elf	Demihuman	5	1*			E1	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
+Elf, Aquatic	Demihuman	5	1* or more			Elf of same level	Generic	DMR2 Creature Catalog	37	Dark Dungeons Deluxe
+Elf, Shadow	Demihuman	3	1+ (varies)*			Elf of same level	Generic	DMR2 Creature Catalog	27	Dark Dungeons Deluxe (Dark Elf)
+Elven Dog (Coin-Sith, Fey Hound)	Monster	3	2+3*			E3	Generic	DMR2 Creature Catalog	30	PD (Mythology)
+Emu	Animal (Normal)	8	2			F1	Generic	Dragon #186	46	Labyrinth Lord: Advanced Edition Companion (Flightless Bird)
+Enchanted Armour	Monster (Enchanted)	2	5			F5	Mystara	CM7 The Tree of Life	Cover/29	PD (Generic Terms)
+Epadrazzil	Monster (Planar)	3	4+1***			F3+special	Generic	Dungeon #2	64	TM (Apefolk)
+Errant Soul	Undead	2	6***			F6 or better	Mystara	Dragon #174	44	PD (Generic Terms)
 Faedorne	Humanoid (Enchanted)	6	9**			E10	Generic	DMR2 Creature Catalog	38	TM
+Faenare	Humanoid	6	2d8***			E3	Mystara	PC2 Top Ballista: DMs Booklet	6	TM (Birdfolk, Mountain)
+Faerie	Humanoid	5	1+1* or more			E1 (or better)	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
+Faerie, Tepictoton	Humanoid	6	1**			F1	Mystara (Hollow World)	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	31	PD (Mythology)
+Faun (Satyr)	Humanoid	7	½			T1	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	12	Dark Dungeons Deluxe
+Ferret, Giant	Animal (Giant)	5	1+1			F1	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
 Feywing	Dragon-Kin	4	7+1			F7	Generic	DMR2 Creature Catalog	39	TM
+Fiend, Lesser (Croaking)	Monster (Planar)	0	13**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Hezrou)
+Fiend, Lesser (Groaning)	Monster (Planar)	0	19**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Nalfeshnee)
+Fiend, Lesser (Hissing)	Monster (Planar)	0	22**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Marilith)
+Fiend, Lesser (Howling)	Monster (Planar)	0	16**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Glabrezu)
+Fiend, Lesser (Roaring)	Monster (Planar)	0	25**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Balor)
+Fiend, Lesser (Screaming)	Monster (Planar)	0	10**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Vrock)
+Fiend, Lesser (Whispering)	Monster (Planar)	0	10**********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	108	Dark Dungeons Deluxe (Demon, Succubus)
+Fish, Auratus	Animal (Normal)	9	100-600			F36	Generic	M4 Five Coins for a Kingdom	39	PD (Giant Goldfish)
+Fish, Bass, Giant	Animal (Giant)	7	2			F1	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
+Fish, Carp, Gargantuan	Animal (Giant)	4	15*			F7	Generic	DMR2 Creature Catalog	39	Creatures from Unknown Lands (Carp, Gigantic)
+Fish, Cat-, Giant	Animal (Giant)	4	8+3*			F4	Generic	DMR2 Creature Catalog	39	Labyrinth Lord
+Fish, Piranha (Cold-Water)	Animal (Normal)	7	1/8 (1 hp)			NM	Generic	DMR2 Creature Catalog	40	Creatures from Unknown Lands
+Fish, Piranha (Cold-Water), Giant	Animal (Giant)	6	3+3			F2	Generic	DMR2 Creature Catalog	40	Labyrinth Lord (Fish, Giant, Piranha)
+Fish, Rock-, Giant	Animal (Giant)	1	5+5*			F3	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe (Fish, Giant Stone)
+Fish, Sturgeon, Giant	Animal (Giant)	0	10+2*			F5	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe
+Fish, Talking (Bradan)	Animal (Enchanted)	5	4**			F4	Mystara	PC1 Tall Tales of the Wee Folk: Adventurers Booklet	12	PD (Animal, Generic Term Variant)
+Fish, Talking, Trout	Animal (Enchanted)	6	2+2*			F4	Mystara	Dungeon #46	15	PD (Animal, Generic Term Variant)
+Flame Wolf	Monster	-6	2**			F22	Mystara	M3 Twilight Calling	9	PD (Animal, Elemental Variant)
+Flapsail	Dragon-Kin	2	8*			F8	Mystara	Hollow World Campaign Set: Adventure Book	23	TM (Lesser Red Dragon)
 Flicker	Monster (Planar)	9	9****			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	110	TM
+Fly, Horse-, Giant	Lowlife	¼	1 hp each			NM	Generic	Dungeon #46	15	PD (Animal, Size Variant)
+Fly, Robber	Lowlife	6	2			F1	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
+Frog, Killer	Animal (Normal)	7	1			F3	Mystara (Blackmoor)	DA2 Temple of the Frog	13	Labyrinth Lord: Advanced Edition Companion
+Frog, Poison, Giant	Animal (Giant)	7	2**			F1	Generic	DMR2 Creature Catalog	41	The Tome of Horrors Complete
+Frogfolk	Humanoid	6 (8)	2+1 (1+1)			F2 (F1)	Mystara (Blackmoor)	DA2 Temple of the Frog	14	PD (Generic Terms)
 Fundamental, Air	Monster (Planar)	6	1+1			F2	Generic	DMR2 Creature Catalog	42	TM
 Fundamental, Earth	Monster (Planar)	3	1+1			F2	Generic	DMR2 Creature Catalog	42	TM
 Fundamental, Fire	Monster (Planar)	5	1+1			F2	Generic	DMR2 Creature Catalog	42	TM
 Fundamental, Water	Monster (Planar)	4	1+1			F2	Generic	DMR2 Creature Catalog	42	TM
 Fungoid	Monster	8	10**			D10	Generic	DMR2 Creature Catalog	42	TM
 Galumph	Monster	7	3+3*			F2	Thunder Rift	Assault on Raven's Ruin	16	TM
+Gargantua	As Monster	As Monster	8*Monster			F=HD	Generic	Rules Cyclopedia	177	Dark Dungeons Deluxe (Gargantuan Monster)
+Gargoyle	Construct	5	4**			F8	Generic	Rules Cyclopedia	178	Dark Dungeons Deluxe
+Gargoyle, Iron	Construct	-1	16*****			F8	Generic	DMR2 Creature Catalog	44	PD (Mythology, Material Variant)
+Gator Man (Gurrash)	Humanoid	3	7			F7	Generic	DMR2 Creature Catalog	47	TM (Gatorfolk)
 Gebbeth	Monster	0 or Variable	8****			M8	Pelinore	Imagine #23	32	TM
+Genie, Djinni, Greater (Pasha)	Monster (Planar)	-2	15***			M30	Generic	Rules Cyclopedia	167	Dark Dungeons Deluxe
+Genie, Djinni, Lesser	Monster (Planar)	5	7+1*			F14	Generic	Rules Cyclopedia	166	Dark Dungeons Deluxe
+Genie, Efreeti, Greater (Amir)	Monster (Planar)	-2	20***			M36	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
+Genie, Efreeti, Lesser	Monster (Planar)	3	10*			F15	Generic	Rules Cyclopedia	174	Dark Dungeons Deluxe
+Geonid	Monster	-2	2			F2	Generic	DMR2 Creature Catalog	47	Creatures from Unknown Lands (Petros)
+Gerbil	Animal (Normal)	9	1			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
+Ghostly Horde	Enchanted	4	3			F3	Generic	DMR2 Creature Catalog	48	Creatures from Unknown Lands (Ghost Army)
+Ghoul	Undead	6	2*			F2	Generic	Rules Cyclopedia	178	Dark Dungeons Deluxe
+Ghoul, Agarat	Undead	4	4+3*			F5	Mystara	X8 Drums on Fire Mountain	28	TM (Greater Ghoul)
+Ghoul, Elder	Undead	5	5**			F4	Generic	DMR2 Creature Catalog	48	PD (Mythology, Age Variant)
+Ghoul, Special	Undead	5	4**			F4	Mystara	B10 Night's Dark Terror	52	PD (Mythology, Generic Term)
+Ghoul, Vapour	Undead	2	3**			F5	Mystara	AC9 Creature Catalog	88	PD (Mythology, Generic Term Variant)
+Giant, Athach	Humanoid (Giant)	0	14**	L	1d3 (1d6)	F14	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe
+Giant, Cloud	Humanoid (Giant)	4	13*			F12	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Giant, Cyclops	Humanoid (Giant)	5	13*	L	1 (1d4)	F13	Generic	Rules Cyclopedia	164	Dark Dungeons Deluxe
+Giant, Fire	Humanoid (Giant)	4	11+2*			F11	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Giant, Frost	Humanoid (Giant)	4	10+1*			F10	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Giant, Hephaeston	Humanoid (Giant)	-2	25****			F25	Generic	DMR2 Creature Catalog	53	Creatures from Unknown Lands (Giant, Blacksmith)
+Giant, Hill	Humanoid (Giant)	4	8			F8	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Giant, Mountain	Humanoid (Giant)	0	12*-20*			F (level = HD)	Generic	Rules Cyclopedia	179	Creatures from Unknown Lands
+Giant, Sea (Ocean)	Humanoid (Giant)	0	9*-15*			F (level = HD)	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Giant, Stone	Humanoid (Giant)	4	9			F9	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Giant, Storm	Humanoid (Giant)	2	15**			F15	Generic	Rules Cyclopedia	179	Dark Dungeons Deluxe
+Gnoll	Humanoid	5	2			F2	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Gnome	Humanoid	5	1			D1	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Goblin	Humanoid	6	1-1			NM	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Golem, Amber	Construct	6	10*			F5	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Golem, Armor	Construct	2	4+1			F4	Thunder Rift	Quest for the Silver Sword	16	PD (Mythology, Generic Term Variant)
+Golem, Bamboo Warrior	Construct	0	3			F3	Thunder Rift	Rage of the Rakasta	16	TM (Bamboo Golem)
+Golem, Bone	Construct	2	6*			F4	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Golem, Bronze	Construct	0	20**			F10	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe (Iron Golem)
+Golem, Drolem	Construct	-3	20*****			F10 (and see below)	Generic	Rules Cyclopedia	173	Creatures from Unknown Lands (Golem, Dragon)
 Golem, Ganetra	Construct	0	24**			F12	Mystara (Hollow World)	HWA3 Hollow World: Nightstorm	64	TM
+Golem, Ice	Construct	3	3			F4	Thunder Rift	Quest for the Silver Sword	16	PD (Mythology, Material Variant)
+Golem, Iron Statue, Gargantua	Construct	2	32*			??	Mystara	CM7 The Tree of Life	Cover/??	PD (Mythology, Generic Term Variant)
+Golem, Mud	Construct	9	8*			F8	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Golem, Obsidian	Construct	3	6*			F3	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Golem, Replica-	Construct	6	14**			M14	Pelinore	GM3 In Search of New Gods	39	TM (Replicant Golem)
+Golem, Rock	Construct	-2	16***			F8	Generic	DMR2 Creature Catalog	49	PD (Mythology, Material Variant)
+Golem, Silver	Construct	0	12***			F6	Generic	DMR2 Creature Catalog	49	PD (Mythology, Material Variant)
+Golem, Wood	Construct	7	2+2			F1	Generic	Rules Cyclopedia	180	Dark Dungeons Deluxe
+Gorgon	Monster	2	8*			F8	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
 Goroghwen	Monster	??	??			??	Generic	Imagine #16	4	TM
+Grab Grass	Lowlife	9	1 per 5' square			NM	Generic	Rules Cyclopedia	181	Creatures from Unknown Lands (Carnivore Meadow)
 Gray Philosopher	Undead	4	9			C9	Generic	DMR2 Creature Catalog	49	TM
 Gray Philosopher, Malice	Undead	1	1*			C6	Generic	DMR2 Creature Catalog	49	TM
 Grazer	Animal (Normal)	5	8			F7	Mystara (Blackmoor)	DA3 City of the Gods	37	TM
+Gremlin	Monster	7	1**			E1	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
+Griffon	Monster	5	7			F4	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
 Gron, Bull		0 (head), 3 (body)	80**	L		F20	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	7	TM
 Gron, Elder		-3 (head), 1 (body)	320**	L		F25	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	7	TM
 Gron, Pup		3 (head), 5 (body)	20**	L		F15	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	7	TM
 Guardian Hand	Construct	2/1	As creator****			M(Level of creator)	Mystara	CM8 The Endless Stair	28	TM
 Guardian Tree (Karwana Mulumba)	Monster	2/5/7	25/10 hp/5 hp			F25	Mystara	Champions of Mystara: Explorers' Manual	56	TM
+Guardian, Horse	Construct	4	5**			F5	Generic	DMR2 Creature Catalog	50	PD (Animal, Generic Term Variant)
+Guardian, Warrior	Construct	4	5**			F5	Generic	DMR2 Creature Catalog	50	PD (Generic Terms)
+Gull, Giant	Animal	4	6*	L		F3	Generic	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	PD (Animal)
+Gyerian	Monster	3	3			F3	Generic	DMR2 Creature Catalog	51	TM (Birdfolk)
+Hag, Black	Humanoid	4	11****-20******			C (level = HD)	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe (Hag, Night)
+Hag, Crone of Chaos	Humanoid	7	6*			F6	Generic	DMR2 Creature Catalog	23	Creatures from Unknown Lands (Crone)
+Hag, Sea	Humanoid	4	8****			F8	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
 Hagertral	Monster	2	3+1			F3	Generic	Polyhedron #2	10	TM
+Halfling	Demihuman	7 (or 5, see below)	1-1			H1	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
+Hanai		3	3****	M		My4	Calidar	https://bruce-heard.blogspot.com/2020/06/Hanai.html		
+Harpy	Monster	7	3*			F6	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
+Harpy, Marshmallow	Monster	7	3*			F6	Generic	Polyhedron #51	14	PD (Mythology, Generic Term Variant)
+Haunt, Banshee	Undead	-3	13****			See below	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
+Haunt, Banshee, Lesser	Monster	3	5*			F5	Generic	DMR2 Creature Catalog	13	PD (Mythology, Power Variant)
+Haunt, Ghost	Undead	-2	14****			See below	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
+Haunt, Lesser	Undead	N/A	N/A			Special	Generic	DMR2 Creature Catalog	52	Dark Dungeons Deluxe (Haunt, Spook)
+Haunt, Lesser, Poltergeist	Undead	-1	12****			See below	Generic	Rules Cyclopedia	182	Dark Dungeons Deluxe
+Haunt, Possession	Undead	Var	7-9**			C9	Generic	AC9 Creature Catalog	87	PD (Mythology)
+Helion	Monster (Planar)	1	9*			F9	Generic	Rules Cyclopedia	184	Creatures from Unknown Lands (Sun Ring)
+Hellhound	Monster	4	3**-7**			F3-7	Generic	Rules Cyclopedia	184	Dark Dungeons Deluxe
 Herex, Adult	Lowlife	2	13**			F7	Generic	DMR2 Creature Catalog	54	TM
 Herex, Larva	Lowlife	3	6*-12*			F3-6	Generic	DMR2 Creature Catalog	54	TM
+Hippogriff	Monster	5	3+1			F2	Generic	Rules Cyclopedia	184	Dark Dungeons Deluxe
 Hivebrood	Monster	3	3+1**			F4	Generic	DMR2 Creature Catalog	54	TM
 Hivebrood, Broodling	Monster	6	As host+1d4 hp* or 2+1*, whichever is greater			F3	Generic	DMR2 Creature Catalog	54	TM
 Hivebrood, Broodmother	Monster	8	12+2*			F12	Generic	DMR2 Creature Catalog	54	TM
 Hivebrood, Hiveleader	Monster	2	5+1**			F7	Generic	DMR2 Creature Catalog	54	TM
 Hivebrood, Hivemind	Monster	6	6+6****			F12 or better	Generic	DMR2 Creature Catalog	54	TM
+Hobgoblin	Humanoid	6	1+1			F1	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
+Homunculus, Fylgar (Matter/Law)	Monster (Planar)	0	3****			M21	Generic	DMR2 Creature Catalog	57	Labyrinth Lord: Advanced Edition Companion (Homunculus)
+Homunculus, Gretch (Time/Neutral)	Monster (Planar)	0	3****			M21	Generic	DMR2 Creature Catalog	57	Labyrinth Lord: Advanced Edition Companion (Homunculus)
+Homunculus, Ulzaq (Energy/Chaos)	Monster (Planar)	0	3*****			M21	Generic	DMR2 Creature Catalog	57	Labyrinth Lord: Advanced Edition Companion (Homunculus)
 Hook Beast, Hook Horror	Monster (Planar)	2	5			F5	Generic	DMR2 Creature Catalog	58	TM
 Hook Beast, Hulker	Monster (Planar)	2	10			F10	Generic	DMR2 Creature Catalog	58	TM
+Horde	Monster (Planar)	3	3*-21*			See below	Generic	Rules Cyclopedia	185	Creatures from Unknown Lands (Colony)
+Horse, Draft	Animal (Normal)	7	3			F2	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
+Horse, Mule	Animal (Normal)	7	2			NM	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
+Horse, Nag	Animal (Normal)	8	2			F1	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
+Horse, Pony	Animal (Normal)	1	2			F1	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
+Horse, Pony, Krugel	Animal (Normal)	7	2			NM	Mystara	Hollow World Campaign Set: Adventure Book	26	TM (Mountain Pony)
+Horse, Riding	Animal (Normal)	7	2			F1	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
+Horse, War	Animal (Normal)	1	3			F2	Generic	Rules Cyclopedia	185	Dark Dungeons Deluxe
+Horse, War, Elven	Animal (Normal)	7	3			F4	Mystara	GAZ5 The Elves of Alfheim	76	PD (Animal, Terms Variant)
+Horse, War, Light	Animal (Normal)	7	2+2			F1	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	SRD
+Hsiao (Guardian Owl)	Monster	5	4**-15****			C (level = HD)	Generic	Rules Cyclopedia	186	Creatures from Unknown Lands (Xiao (owl-folk))
 Huptzeen	Construct	3	3**-7***			M3-7	Mystara	AC9 Creature Catalog	27	TM
+Hutaakan	Humanoid	8	1-1			NM	Generic	DMR2 Creature Catalog	58	Creatures from Unknown Lands (Bardi (jackal folk))
+Hutaakan, Priest	Humanoid	6	2*			C2	Generic	DMR2 Creature Catalog	58	TM (Jackalfolk Priest)
+Hutaakan, Warrior	Humanoid	5	1			F1	Generic	DMR2 Creature Catalog	58	TM (Jackalfolk Other)
+Hydra	Monster	5	5-12 (1 per head)			F5-12	Generic	Rules Cyclopedia	186	Dark Dungeons Deluxe
+Hydra, Flying	Monster	5	5-9*			F5-12	Generic	Rules Cyclopedia	186	Dark Dungeons Deluxe
+Hydra, Pig-Headed	Monster	5	7			F7	Mystara	PC2 Top Ballista: Adventurers Booklet	28	PD (Mythology, Generic Term Variant)
+Hydra, Regenerating	Monster	5	5-9*			F5-12	Generic	Rules Cyclopedia	186	Dark Dungeons Deluxe
+Hydra, Sea	Monster	5	5-12 (1 per head)			F5-12	Generic	Rules Cyclopedia	52	Dark Dungeons Deluxe
+Hydrax	Monster (Planar)	2	5**-12**			F (level = 2xHD)	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe (Ice Spider)
+Ice Wolf (Quarg)	Monster	4	3-5+1**			F4-6	Generic	DMR2 Creature Catalog	60	SRD
 IffanbutT	Monster (Planar)	Variable	Enough for anything			No Problem	Generic	ST1 Up the Garden Path	16	TM
+Imp, Blue	Humanoid	-5	1/2**** (1-4 hp)			M21	Mystara	GAZ3 The Principalities of Glantri	94	PD (Mythology, Color Variant)
+Imp, Red	Humanoid	-5	1/2**** (1-4 hp)			M21	Mystara	GAZ3 The Principalities of Glantri	94	PD (Mythology, Color Variant)
+Imp, Wood	Humanoid	6	¾ (1d6 hp)*			NM	Generic	DMR2 Creature Catalog	112	PD (Mythology, Material Variant)
+Incarnate		2	8+2 (12+3, 16+4, or 20+5)	M		Fighter of equivalent level	Calidar	https://bruce-heard.blogspot.com/2020/05/Incarnates.html		
+Insect Swarm	Lowlife	2*-4*	NM				Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe
+Invisible Stalker (Sshai)	Monster (Planar)	3	8*			F8	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe
+Jar Malefactor		4	4**	S		F4	Calidar	https://bruce-heard.blogspot.com/2020/06/Malefactor.html		
 Jellyfish, Agrisian	Animal (Normal)	9	6*			F3	Mystara (Hollow World)	HWR3 Hollow World: The Milenian Empire: Campaign Book	41	TM
+Jellyfish, Man-O-War, Giant	Lowlife	6	9**			F5	Generic	DMR2 Creature Catalog	60	Creatures from Unknown Lands (Jellyfish, Gigantic)
+Jellyfish, Marauder, Giant	Lowlife	9	4**			F2	Generic	DMR2 Creature Catalog	60	Creatures from Unknown Lands (Jellyfish, Giant)
 Jihanti	Humanoid	5	1-1*			F5	Pelinore	GM1 A Flight of Eagles	44	TM
+Juggernaut, Stone	Construct	0	30**			Special	Generic	DMR2 Creature Catalog	62	Creatures from Unknown Lands (Living Juggernaut, Stone)
+Juggernaut, Wood	Construct	0	25**			Special	Generic	DMR2 Creature Catalog	62	Creatures from Unknown Lands (Living Juggernaut, Wood)
 Jumper	Monster (Planar)	-7 (body) or -2 (arms	11****-30****			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	110	TM
+Jupiter Blood Sucker	Lowlife	5	3			F3	Mystara	B3 Palace of the Silver Princess (1st Printing)	28	The Tome of Horrors Complete
+Kal-Muru (Shipbane)	Monster (Planar)	4	2*			F4	Generic	DMR2 Creature Catalog	62	Creatures from Unknown Lands (Wind of Madness)
+Kangaroo	Animal (Normal)	8	2			F1	Generic	Dragon #186	45	PD (Animal)
+Killer Tree	Lowlife	5	6			F3	Generic	DMR2 Creature Catalog	64	Creatures from Unknown Lands (Thug Tree)
 Kirekan	Monster	5	88			F36	Mystara	M3 Twilight Calling	10	TM
+Kna	Humanoid	5	7			F7	Generic	DMR2 Creature Catalog	65	TM (Goldfishfolk)
+Koala	Animal (Normal)	8	½			F1	Generic	Dragon #186	46	PD (Animal)
+Kobold	Humanoid	7	½ (1-4 hp)			NM	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe
+Kookaburra	Animal (Normal)	7	½			F1	Generic	Dragon #186	46	PD (Animal)
+Kopru	Monster	3	8+4*			F9	Generic	DMR2 Creature Catalog	66	Creatures from Unknown Lands (Ulupoka)
+Kryst	Monster (Planar)	2	9*			E9	Generic	Rules Cyclopedia	187	Dark Dungeons Deluxe (Iron Urchin)
+Lamara	Monster	4	8*			M8	Generic	DMR2 Creature Catalog	67	Labyrinth Lord: Advanced Edition Companion (Lamia)
+Lava Fish	Monster	??	1 (1-8 hp)			??	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	38	PD (Animal, Elemental Variant)
+Leech, Death	Lowlife	7	8*			F8	Mystara	CM2 Death's Ride	26	PD (Animal, Generic Term Variant)
+Leech, Giant	Lowlife	7	6			F3	Generic	Rules Cyclopedia	188	Dark Dungeons Deluxe
+Leech, Giant, Young	Lowlife	7	2			F1	Generic	The Dragon's Den: Wild Dragon Den	7	PD (Animal, Size Variant, Age Variant)
+Leprechaun	Humanoid	5	¼			E1	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	30	Dark Dungeons Deluxe
+Lich	Undead	0	See above			Character type and level	Generic	Rules Cyclopedia	188	Dark Dungeons Deluxe
+Lizard, Chameleon	Animal (Normal)	4	1			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
+Lizard, Draco, Giant	Animal (Giant)	5	4+2			F3	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
+Lizard, Foot-Pad, Giant	Monster	6	2+1			F2	Generic	DMR2 Creature Catalog	70	Creatures from Unknown Lands (Lizard, Giant tame)
+Lizard, Gecko, Giant	Animal (Giant)	5	3+1			F2	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
+Lizard, Goanna	Animal (Normal)	5	½			F1	Generic	Dragon #186	46	PD (Animal)
+Lizard, Horned Chameleon, Giant	Animal (Giant)	2	5*			F3	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe (Lizard, Horned)
+Lizard, Lava	Animal (Enchanted)	3	4*			F4	Generic	DMR2 Creature Catalog	68	Creatures from Unknown Lands (Vulcan Lizard)
+Lizard, Rockhome	Monster	5	3			F3	Generic	DMR2 Creature Catalog	71	TM (Lesser Lizardfolk)
 Lizard, Skitterling	Animal (Normal)	??	??			??	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	38	TM
 Lizard, Thumper	Monster	5	1			NM	Mystara	Hollow World Campaign Set: Adventure Book	24	TM
+Lizard, Tuatara, Giant	Animal (Giant)	4	6			F3	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
 Lizard, Xytar	Dragon-Kin	3	5+1*			F2	Generic	DMR2 Creature Catalog	116	TM
+Lizardman	Humanoid	5	2+1			F2	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe
+Lizardman, Lesser	Humanoid	5	1+1			F1	Generic	The Dragon's Den: Wild Dragon Den	7	TM (Lizardfolk Whelp/Female)
+Locust, Giant	Lowlife	4	2**			F2	Generic	Rules Cyclopedia	189	Dark Dungeons Deluxe (Locust, Giant)
+Lupin	Humanoid	6	2			F2	Generic	DMR2 Creature Catalog	72	TM (Wolffolk)
 Lyadrachnus	Monster	6	6*			F3	Mystara (Hollow World)	HWQ1 Hollow World: The Milenian Scepter	54	TM
+Lycanthrope, Werebat	Monster	4 (9) t	3+3*			F3	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Werebear	Monster	2 (8) t	6*			F6	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Wereboar	Monster	4 (9) t	4+1*			F4	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Werefox	Monster	6 (9) t	3+2*			F3	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Werejaguar	Monster	4	5+2*			F6	Generic	DMR2 Creature Catalog	72	Dark Dungeons Deluxe
+Lycanthrope, Werepig (Devil Swine)	Monster	3 (9) t	9*			F9	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Wererat	Monster	7 (9) t	3*			F3	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Wererat, Greater	Monster	7 (rat), 9 (human)	HD and hp as per previous class and level			per class and level	Generic	Dungeon #14	63	PD (Mythology, Power Variant)
+Lycanthrope, Weresabretooth	Monster	2	12			F12	Generic	Hollow World Campaign Set: Adventure Book	16	Dark Dungeons Deluxe
+Lycanthrope, Wereseal	Monster	5 (9) t	5+2*			F5	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Wereshark	Monster	4 (9) t	4*			F4	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Weretiger	Monster	3 (9) t	5*			F5	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
+Lycanthrope, Werewolf	Monster	5 (9) t	4*			F4	Generic	Rules Cyclopedia	190	Dark Dungeons Deluxe
 Magen, Caldron	Construct	5	4*			F4	Generic	DMR2 Creature Catalog	73	TM
+Magen, Demos	Construct	7 or armor type	3+2			F4	Generic	DMR2 Creature Catalog	73	Creatures from Unknown Lands (Simulacre, Warden)
 Magen, Galvan	Construct	3	5*			F5	Generic	DMR2 Creature Catalog	73	TM
+Magen, Hypnos	Construct	7	2*			M2	Generic	DMR2 Creature Catalog	73	Creatures from Unknown Lands (Simulacre, Mesmerizer)
 Magen, Scalos	Construct	7	4+2*			F5	Mystara	Dungeon #53	44	TM
+Maggot Man	Humanoid	4	2+1			F1-3	Mystara	Different Worlds #43	M6	PD
+Magpie	Animal (Normal)	7	1/8 (1 hp)			NM	Generic	DMR2 Creature Catalog	74	PD (Animal)
+Magpie, Giant	Animal (Giant)	6	1+1			F1	Generic	DMR2 Creature Catalog	74	PD (Animal, Size Variant)
+Man, Bandit	Human	6	1	M	2d4 (3d10)	T1	Generic	Rules Cyclopedia	158	Dark Dungeons Deluxe (Human, Bandit)
+Man, Berserker	Human	7	1+1*	M	1d6 (3d10)	F1	Generic	Rules Cyclopedia	161	Dark Dungeons Deluxe (Berserker Subclass)
+Man, Brigand	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Human, Bandit)
+Man, Brother of Greenwood	Human	7	3			F3	Mystara (Blackmoor)	DA4 The Duchy of Ten	36	PD (Human)
+Man, Buccaneer/Pirate	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Human, Bandit)
+Man, Caveman, Garl	Humanoid	7	6			F6	Generic	DMR2 Creature Catalog	46	Creatures from Unknown Lands (Gaor)
+Man, Dervish	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Dervish Sublass)
+Man, Handmaiden of Death	Human	4	9			F9	Mystara (Blackmoor)	DA4 The Duchy of Ten	37	PD (Human)
+Man, Headsman (and Thug)	Human	4 or better	1**-12******			T (level = HD)	Generic	Rules Cyclopedia	184	Dark Dungeons Deluxe (Assassin Subclass)
+Man, Heldannic Knight	Human	3	2			C2	Mystara	Champions of Mystara: Heroes of the Princess Ark	91	PD (Human)
+Man, Heldannic Knight, Officer	Human	2	5			C5	Mystara	Champions of Mystara: Heroes of the Princess Ark	91	PD (Human)
+Man, Hide Hunter	Human	6	4			F4	Generic	DA4 The Duchy of Ten	38	PD (Human)
+Man, Isolated, Cynidicean	Human	9	1			F1	Generic	DMR2 Creature Catalog	75	PD (Human)
+Man, Isolated, Qaurik	Human	6	2			F2	Generic	DMR2 Creature Catalog	75	PD (Human)
+Man, Isolated, Traldar	Human	9	1-1			NM	Generic	DMR2 Creature Catalog	76	PD (Human)
+Man, Isolated, Traldar, Vocal	Human	9	1*			F1	Generic	DMR2 Creature Catalog	76	PD (Human)
+Man, Isolated, Traldar, Warrior	Human	6	1+1			F1	Generic	DMR2 Creature Catalog	76	PD (Human)
+Man, Mystic	Human	6	4			F4	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe (Mystic Class)
+Man, Mystic, Leader	Human	3	7			F6	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe (Mystic Class)
+Man, Noble	Human	2	3-8			F3-8	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe (Human, Noble)
+Man, Nomad	Human	Variable	1			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe
+Man, Normal Human	Human	9	1-1			NM	Generic	Rules Cyclopedia	197	Dark Dungeons Deluxe (Human, Commoner)
+Man, Primitive (Barbarian, Native, Pagan, Wild Man)	Human	Varies	1			Varies	Generic	DMR2 Creature Catalog	76	PD (Human)
+Man, Sister of Fire	Human	9	3-10			C3-10	Mystara (Blackmoor)	DA4 The Duchy of Ten	39	PD (Human)
+Man, Skandaharian Raider	Human	4	4			F4	Mystara (Blackmoor)	DA4 The Duchy of Ten	39	PD (Human)
+Man, Trader	Human	5	5			F1	Generic	Rules Cyclopedia	193	Dark Dungeons Deluxe
 Mana Lion		-3	18********	L		F18	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
+Manikin (Mandragora)	Lowlife	6	1/2* (1-4 hp)			M1	Mystara	GAZ3 The Principalities of Glantri	94	The Tome of Horrors Complete
+Manscorpion	Monster	1	8**			F8	Generic	Rules Cyclopedia	191	Dark Dungeons Deluxe (Scorpion Man)
+Manta Ray	Animal (Normal)	6	4*			F2	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
+Manta Ray, Giant	Animal (Giant)	6	10*			F5	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
+Manticore	Monster	??	6+1*			F6	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
+Medusa	Monster	8	4**			F4 (see below)	Generic	Rules Cyclopedia	192	Dark Dungeons Deluxe
+Mek	Construct	-4	11**-16**			F36	Generic	Rules Cyclopedia	192	Creatures from Unknown Lands (Living Machine)
 Mereling	Humanoid	8	1-1*	S		F1	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	TM
+Merman	Humanoid	6	M11			F1-4	Generic	Rules Cyclopedia	194	Dark Dungeons Deluxe
 Metamorph	Humanoid	5 (or as form)	3+1**				Generic	Rules Cyclopedia	194	TM
+Minotaur	Monster	6	6			F6	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
 Minotaur, Bargda	Monster	4	12**			F12	Generic	DMR2 Creature Catalog	14	TM
 Moan Bird	Animal (Enchanted)	7	1+1			F1	Mystara (Hollow World)	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	30	TM
+Mold, Yellow	Lowlife	Can always be hit	2*			F2	Generic	Rules Cyclopedia	213	Dark Dungeons Deluxe
+Monkey	Animal (Normal)	7	1			NM	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	SRD
+Monkey, Marmoset, Giant	Animal (Normal)	5	3			F3	Generic	B3 Palace of the Silver Princess (1st Printing)	28	The Tome of Horrors Complete
+Monster Ruler	Various	As monster -6	As monster 8x			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	111	PD (Generic Terms)
 Moonflower	Lowlife	9	1 hp			NM	Mystara	PC4 Night Howlers: DM's Guide	63	TM
+Moss, Purple	Lowlife	9	1			F1	Mystara	B3 Palace of the Silver Princess (1st Printing)	28	Creatures from Unknown Lands (Scarlet Moss)
+Moss, Vampire	Lowlife	9	½ (1-4 hp)			M1	Mystara	Dungeon #41	33	PD (Generic Terms)
 Mugumba Mud-Dwellers	Humanoid	6	2			F2	Mystara	Champions of Mystara: Explorers' Manual	57	TM
+Mujina	Monster	5	8*			F8	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
+Mummy	Undead	3	5+1**			F5	Generic	Rules Cyclopedia	195	Dark Dungeons Deluxe
+NPC Party	Human	By NPC Class	Variable			NPC class and level	Generic	Rules Cyclopedia	198	PD (Generic Terms)
+Nagpa	Monster	3	9**			M9	Generic	DMR2 Creature Catalog	79	Creatures from Unknown Lands (Nekbet (Vulture folk))
+Neanderthal (Caveman)	Humanoid	8	2			F2	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
+Newt	Humanoid	6	1+2			F3	Thunder Rift	The Knight of Newts	14	TM (Newtfolk)
+Nightmare	Monster (Planar)	-4	7***			F7	Generic	DMR2 Creature Catalog	79	Labyrinth Lord: Advanced Edition Companion
 Nightmare Creature, Diabolus	Humanoid	8 (base; see below)	1*-9*			Character class and level	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	106	TM
 Nightmare Creature, Eater-of-Magic	Monster (Planar)	10	7*			F4	Mystara	CM8 The Endless Stair	30	TM
+Nightmare Creature, Malfera	Monster (Planar)	3	9**			F13	Generic	Rules Cyclopedia	191	Creatures from Unknown Lands (Nightmare Oliphant)
+Nightmare Creature, Tzitzimitl	Monster (Planar)	-2	16+			F15	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	31	PD (Mythology)
+Nightmare, Lesser	Monster (Planar)	7	3+1*			F2	Generic	Escape from Thunder Rift	31	PD (Mythology, Power Variant)
+Nightshade, Nightcrawler	Undead	-4	25-30*****			F25-30 and see below	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
+Nightshade, Nightwalker	Undead	-6	21-26*****			F21-26 and see below	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
+Nightshade, Nightwing	Undead	-8	17-20*****			F17-20 and see below	Generic	Rules Cyclopedia	196	Dark Dungeons Deluxe
 Nipper	Monster (Planar)	0	1 (1 hp)			F1	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	44	TM
 Notion	Monster (Planar)	-12	5***-50***			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	112	TM
+Octopus, Giant	Animal (Giant)	7	8			F4	Generic	DMR2 Creature Catalog	80	Labyrinth Lord
+Ogre	Humanoid	5	4+1			F4	Generic	Rules Cyclopedia	198	Dark Dungeons Deluxe
+Ogre, Mutant	Humanoid	5	4+1*			F4	Mystara	PC2 Top Ballista: Adventurers Booklet	30	PD (Mythology, Generic Term)
+Ooze, Black Pudding	Monster	6	10*	L	1 (0)	F5	Generic	Rules Cyclopedia	161	Dark Dungeons Deluxe
+Ooze, Gelatinous Cube	Monster	8	4*			F2	Generic	Rules Cyclopedia	178	Dark Dungeons Deluxe
+Ooze, Gray	Lowlife	8	3*			F2	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
+Ooze, Green Slime	Lowlife	Can always be hit	2**			F1	Generic	Rules Cyclopedia	181	Dark Dungeons Deluxe
 Ooze, Kartoeba (Thing in the Pit)	Lowlife	6	10**			F10	Mystara	B10 Night's Dark Terror	55	TM
+Ooze, Lava	Lowlife	5	9			F9	Generic	Rules Cyclopedia	188	Dark Dungeons Deluxe (Fireslime)
+Ooze, Ochre Jelly	Lowlife	8	5*			F3	Generic	Rules Cyclopedia	198	Dark Dungeons Deluxe
+Orc	Humanoid	6	1			F1	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
+Orc, Jinsu	Humanoid	6	1			F1	Generic	Polyhedron #51	14	TM (Diner Orc)
+Orc, Kara-Kara	Humanoid	9 (see below)	1+1 or 1+4 (see below)			F1-F2 (see below)	Generic	DMR2 Creature Catalog	63	TM (Jungle Orc)
+Owl, Talking	Animal (Enchanted)	6	½			NM	Mystara	Dungeon #46	15	PD (Animal, Terms Variant)
+Owlbear	Monster	5	5			F3	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
+Oyster, Giant	Animal (Giant)	5 (-2)	10			F5	Generic	DMR2 Creature Catalog	81	Creatures from Unknown Lands
+Pachydermion	Humanoid	3	7			F7	Generic	DMR2 Creature Catalog	81	TM (Elephantfolk)
+Pegasus	Monster	6	2+2			F2	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
+Pelican, Giant	Animal	4	10	L		F4	Generic	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	PD (Animal)
+Phanaton	Monster	7	1-1			F1	Generic	DMR2 Creature Catalog	82	Creatures from Unknown Lands (Dewas (Flying squirrel folk))
+Phantom, Apparition	Undead	0	10***			M10	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
+Phantom, Lesser	Enchanted	9	6**			F6	Generic	DMR2 Creature Catalog	83	Creatures from Unknown Lands (Ectoplasm)
+Phantom, Shade	Undead	0	11***			T11	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
+Phantom, Vision	Undead	0	12***			C12	Generic	Rules Cyclopedia	199	Dark Dungeons Deluxe
 Phase Stinger	Construct	4	2+1**			M7	Mystara	B12 Queen's Harvest	32	TM
+Phoenix, Greater	Monster (Planar)	2	9*****			F10	Generic	Rules Cyclopedia	200	Dark Dungeons Deluxe (Phoenix)
+Phoenix, Lesser	Monster (Planar)	-2	18*****			F20	Generic	Rules Cyclopedia	200	Dark Dungeons Deluxe (Firebird)
 Phygorax	Undead	1	8****			F12	Mystara	AC9 Creature Catalog	86	TM
+Piranha Bird, Greater	Monster	7	2			F1	Generic	DMR2 Creature Catalog	84	PD (Animal, Generic Term Variant)
+Piranha Bird, Lesser	Monster	6	½ (1-4 hp)			NM	Generic	DMR2 Creature Catalog	84	PD (Animal, Generic Term Variant)
+Planar Spider	Monster (Planar)	6	5**-10** (see below)			F5	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe (Phase Spider)
+Plasm	Monster (Planar)	0	6*			F6	Generic	Rules Cyclopedia	200	Creatures from Unknown Lands (Elemental Warrior)
+Plasm, Giant	Monster (Planar)	-4	12*			F12	Generic	Rules Cyclopedia	200	Creatures from Unknown Lands (Elemental Warrior)
+Pocket Dragon	Dragon-Kin	8	3*			M3	Generic	DMR2 Creature Catalog	31	Creatures from Unknown Lands (Dragonling)
+Polymar	Monster	9	10*			F5	Generic	DMR2 Creature Catalog	84	Labyrinth Lord: Advanced Edition Companion (Mimic)
+Pooka	Humanoid	4	2**			T2	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	34	Dark Dungeons Deluxe
+Porcupine, Giant	Animal (Giant)	4	5*			F3	Generic	DMR2 Creature Catalog	85	PD (Animal, Size Variant)
+Portal Monster	Monster (Planar)	0	8**			F8	Thunder Rift	In the Phantom's Wake	13	PD (Generic Terms)
+Protean, Astral	Monster (Planar)	0	90			F36	Generic	IM1 The Immortal Storm	40	SRD (Hagunemnon (Protean))
 Protean, Local (Giant)	Monster	8-10	10-100			F7	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	46	TM
+Protector	Humanoid	2	7			M7	Mystara	B3 Palace of the Silver Princess (1st Printing)	28	Creatures from Unknown Lands (Realm Wards)
+Prying Eyes	Monster (Planar)	3 or 7	1/2**			M9	Mystara	CM8 The Endless Stair	28	PD (Generic Terms)
+Purple Lotus	Lowlife	9	1*	S		F1	Calidar	https://bruce-heard.blogspot.com/2020/08/Purple-Lotus.html		
+Purple Lotus, Prime	Lowlife	9	1-10********			F1-10	Calidar	https://bruce-heard.blogspot.com/2020/08/Purple-Lotus.html		
+Rakasta	Humanoid	6	2+1			F2	Generic	DMR2 Creature Catalog	85	Creatures from Unknown Lands (Ngari (Cat-folk))
+Rakasta, Ninja	Humanoid	5	2**			T2	Thunder Rift	Rage of the Rakasta	16	TM (Catfolk, Ninja)
+Rakasta, Warrior	Humanoid	7	2			F2	Thunder Rift	Rage of the Rakasta	16	TM (Catfolk, Warrior)
 Randara	Monster	0	14*****			C11	Generic	DMR2 Creature Catalog	86	TM
+Rat	Animal (Normal)	9	1 hp			NM	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
+Rat, Baric	Lowlife	7	5			F5	Mystara	B3 Palace of the Silver Princess (1st Printing)	26	The Tome of Horrors Complete
+Rat, Giant	Animal (Giant)	7	½ (1-4 hp)			NM	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
+Ratling	Humanoid	7	1			NM	Thunder Rift	Quest for the Silver Sword	16	TM (Ratfolk)
+Raven & Crow	Animal (Normal)	8	¼ (1d2 hp)			NM	Generic	DMR2 Creature Catalog	86	PD (Animal)
+Raven & Crow, Large	Animal (Giant)	7	2+2			F1	Generic	DMR2 Creature Catalog	86	PD (Animal, Size Variant)
 Reflecter	Construct	0	3-9			F3-9	Mystara	AC9 Creature Catalog	30	TM
+Refractor, Noble	Lowlife	7	4			F3	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Noble)
+Refractor, Pharaoh	Lowlife	8	6			F4	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Pharaoh
+Refractor, Soldier	Lowlife	4	2			F2	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Soldier)
+Refractor, Worker	Lowlife	8	1			F1	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Worker)
+Reindeer, Giant	Animal (Giant)	7	2			F1	Generic	Hollow World Campaign Set: Adventure Book	26	Dark Dungeons Deluxe (Giant Herd Animal)
 Repeater (Ditto-monster)	Dragon-Kin	-13	25			EM5	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	47	TM
+Revener	Monster	-4	10*			F10	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe (Face Stealer)
+Rhagodessa	Lowlife	5	4+2			F2	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
+Rhinoceros	Animal (Normal)	5	6			F3	Generic	DMR2 Creature Catalog	87	Labyrinth Lord
+Robot, Automatons of the Blacklore Valley	Construct	4	2			M4	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	22	TM (Litter Robot)
+Robot, Defense (DBOT)	Construct	-2	24*			F16	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
+Robot, Ecology (EBOT)	Construct	0	20*			F14	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
+Robot, Security (SBOT)	Construct	0	12*			F10	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
+Robot, Utility (UBOT)	Construct	3	6			F6	Mystara (Blackmoor)	DA3 City of the Gods	39	PD (Robot, Generic Term Variant)
+Roc, Giant	Monster	0	36			F18	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe (Roc, Gargantuan)
+Roc, Large	Monster	2	12			F6	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe (Rocc, Giant)
+Roc, Small	Monster	4	6			F3	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
+Rock Man	Humanoid	2	3			D3	Generic	DMR2 Creature Catalog	88	Creatures from Unknown Lands (Rock folk)
 Rockfang	Lowlife	2 (8 where exposed)	5+1			F3	Mystara	GAZ8 The Five Shires: Dungeon Masters Booklet	66	TM
+Roper	Monster	0	12***			F10	Generic	DMR2 Creature Catalog	88	Labyrinth Lord: Advanced Edition Companion
 Rudimental, Dust		7	3+2**	S		F5	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
 Rudimental, Lava		5	3+3**	S		F5	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
 Rudimental, Mist		7	3+1**	S		F5	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
 Rudimental, Mud		5	3+1**	S		F5	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
 Rudimental, Plasma		3	3**	S		F5	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
 Rudimental, Steam		3	3+2**	S		F5	Calidar	CAL2a Conversion Guide to Caldwen for Vintage Roleplaying	6	TM
+Rust Monster	Monster	2	5*			F3	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
+Saberclaw	Monster (Enchanted)	2	5**			Varies (see below)	Generic	DMR2 Creature Catalog	89	Creatures from Unknown Lands (Sword Squad)
+Sacrol	Undead	5	8			F8	Mystara	X9 The Savage Coast	28	Creatures from Unknown Lands (Skull Lord)
+Salamander, Flame	Monster (Planar)	2	8*			F8	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
+Salamander, Frost	Monster (Planar)	3	12*			F12	Generic	Rules Cyclopedia	202	Dark Dungeons Deluxe
+Sand Folk	Humanoid	3-7	6			F6	Mystara (Blackmoor)	DA3 City of the Gods	40	PD (Generic Terms)
 Sand-star	Monster	6	9			F9	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	21	TM
+Sasquatch (Yeti)	Humanoid	6	5*			F5	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Scamille	Monster	5	10*			F7	Generic	DMR2 Creature Catalog	89	SRD (Phasm)
+Scorpion	Lowlife	8	1/8 (hp)			NM	Generic	DMR2 Creature Catalog	90	PD (Animal)
+Scorpion, Giant	Lowlife	2	4*			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Sea Horse	Monster	7	2-4			F2	Generic	DMR2 Creature Catalog	91	Creatures from Unknown Lands (Sea Horse, Giant)
+Sea Serpent, Greater	Monster	5	6			F3	Generic	DMR2 Creature Catalog	91	PD (Mythology, Power Variant)
+Sea Serpent, Lesser	Monster	3	12-15			F6	Generic	DMR2 Creature Catalog	91	Labyrinth Lord
+Seal, Fur	Animal (Normal)	7	3			F1	Generic	Dungeon #6	63	PD (Animal)
+Serpentweed, Giant	Lowlife	6	9 per stalk			F9	Generic	DMR2 Creature Catalog	91	Creatures from Unknown Lands (Snake Lily)
 Servitor	Construct	0- -10	15-50			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	113	TM
 Sewer Mouther		4 (body), 7 (tentacle)	10**** (body), 25 hp (tentacle)	L		F10 (body), F5 (tentacle)	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	TM
 Sewer Mouther, Simulacrum		9	1-1	S, M		F1	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	TM
+Shadow	Monster	7	2+2*			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Shadow Wolf	Monster	3	4+1***			M5	Generic	ST1 Up the Garden Path	16	PD (Animal, Generic Term Variant)
 Shargugh	Humanoid	7	3*			E6	Generic	DMR2 Creature Catalog	92	TM
+Shark, Bull	Animal (Normal)	4	2*			F1	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Shark, Great White	Animal (Normal)	4	8			F4	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Shark, Mako	Animal (Normal)	4	4			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Shark, Vamora	Animal (Normal)	4	6*			F3	Generic	DMR2 Creature Catalog	92	TM (Whitetip Reef Shark)
+Shark-kin	Humanoid	5	2-3			F2-3	Generic	DMR2 Creature Catalog	93	Labyrinth Lord: Advanced Edition Companion (Sahuagin)
+Shrew, Giant	Animal (Giant)	4	1*			F1	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Shrieker	Lowlife	7	3			F2	Generic	Rules Cyclopedia	203	Dark Dungeons Deluxe
+Sidhe ("sh-ee")	Humanoid	Variable	1/2*			NM	Generic	PC1 Tall Tales of the Wee Folk: DM's Booklet	37	Dark Dungeons Deluxe
+Silver Warrior	Humanoid (Enchanted)	2 (-2)	7*			F7	Generic	DMR2 Creature Catalog	94	PD (Generic Terms)
 Sirenflower	Lowlife	9	5			F5	Generic	DMR2 Creature Catalog	94	TM
+Sis'thik (Desert Scourge)	Humanoid	4-5	3+3			F2	Generic	DMR2 Creature Catalog	95	TM (Lizardfolk, Desert)
+Skeleton	Undead	7	1			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
 Skeleton, Dusanu (Rot Fiend)	Monster	4	9+2**			F9	Generic	DMR2 Creature Catalog	35	TM
+Skeleton, Skeletal Beast	Undead	2	Variable			F7	Mystara	X11 Saga of the Shadow Lord	61	Creatures from Unknown Lands (Skeleton, battlefield warbeast)
+Skunk	Animal (Normal)	7	1-1*			NM	Generic	DMR2 Creature Catalog	96	PD (Animal)
+Skunk, Giant	Animal (Giant)	6	3*			F2	Generic	DMR2 Creature Catalog	96	PD (Animal, Size Variant)
+Sky Wyrm, Greater	Monster (Planar)	-10	32*****			F32	Mystara	Champions of Mystara: Heroes of the Princess Ark	94	PD (Mythology, Environmental Variant, Power Variant)
+Sky Wyrm, Lesser	Monster (Planar)	-2	16****			F16	Mystara	Champions of Mystara: Heroes of the Princess Ark	94	PD (Mythology, Environmental Variant, Power Variant)
+Sloth, Vulcanian	Animal (Normal)	6	45			F25	Mystara	Dragon #161	100	TM (Gargantuan Sloth)
+Slug, Freshwater, Giant	Lowlife	6	3			F1	Generic	CM9 Legacy of Blood	27	The Tome of Horrors Complete (Slug, Sea, Giant)
+Slug, Giant	Animal (Giant)	8	9** or more (see below)			F (level = ½ HD)	Generic	Rules Cyclopedia	204	Labyrinth Lord: Advanced Edition Companion
+Snail, Giant	Animal (Giant)	-2	9** or more (see below)			F (level = ½ HD)	Generic	Rules Cyclopedia	204	PD (Animal, Size Variant)
 Snake, Cave Cambo							Mystara	The Dragon's Den: Wyrmhaven	8	TM
+Snake, Cobra, Spitting	Animal (Normal)	7	1*			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
+Snake, Cobra, White	Animal (Normal)	6	2*			F1	Generic	HWA3 Hollow World: Nightstorm	33	Dark Dungeons Deluxe (Poisonous Snake)
+Snake, Constrictor	Animal (Normal)	6	5*			F3	Generic	Champions of Mystara: Explorers' Manual	58	Dark Dungeons Deluxe
+Snake, Feathered Serpent	Animal (Normal)	6	2			F1	Generic	HWR1 Hollow World: Sons of Azca: Azcan Campaign Book	28	PD (Animal)
+Snake, Hypno	Animal (Enchanted)	4	8*			M5	Generic	DMR2 Creature Catalog	59	Creatures from Unknown Lands (Hypnotic Snake)
+Snake, Marble, Giant	Animal (Enchanted)	8	3			F3	Mystara	B3 Palace of the Silver Princess (1st Printing)	27	Creatures from Unknown Lands (Lion Snake)
+Snake, Python, Rock	Animal (Normal)	6	5*			F3	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe (Constrictor Snake)
+Snake, Racer, Giant	Animal (Normal)	5	2			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
+Snake, Rattler, Giant	Animal (Normal)	5	4*			F2	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
+Snake, Rattler, Rock	Animal (Normal)	7	1*			F1	Generic	DMR2 Creature Catalog	97	Dark Dungeons Deluxe (Poisonous Snake)
+Snake, Rattler, Rock, Giant	Animal (Giant)	6	8**			F4	Generic	DMR2 Creature Catalog	97	Dark Dungeons Deluxe (Giant Monster - Poisonous Snake)
+Snake, Sea	Animal (Normal)	6	3*			F2	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe
+Snake, Viper	Animal (Normal)	7	1*			F1	Generic	Champions of Mystara: Explorers' Manual	58	Dark Dungeons Deluxe
+Snake, Viper, Flying	Animal (Normal)	6	2**			F1	Mystara	Hollow World Campaign Set: Adventure Book	29	PD (Animal, Generic Term Variant)
+Snake, Viper, Pit	Animal (Normal)	6	2*			F1	Generic	Rules Cyclopedia	204	Dark Dungeons Deluxe (Poisonous Snake)
+Snakemen	Humanoid	-5	31			EM1	Mystara	IM1 The Immortal Storm	40	PD (Snakefolk)
+Snap Dragon, Flower	Lowlife	9	1 hp*			F1	Generic	ST1 Up the Garden Path	16	PD (Plant)
+Snap Dragon, Pollen Dragon	Lowlife	3	2+2*			F6	Generic	ST1 Up the Garden Path	16	PD (Plant, Generic Term Variant)
+Sollux (Sun Brother)	Humanoid	0	10*-14*			F10-14	Generic	DMR2 Creature Catalog	98	Creatures from Unknown Lands (Fire Knight)
 Somnastis	Lowlife	6	2*			F1	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	27	TM
 Soo	Monster (Planar)	-5	3-20			T36	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	48	TM
+Soul Eater	Monster (Planar)	0	10*			C10	Generic	DMR2 Creature Catalog	98	The Tome of Horrors Complete
+Spectral Bat		5	1/2***	S		F1	Calidar	https://bruce-heard.blogspot.com/2020/05/spectral-bat.html		
+Spectral Hound	Monster (Planar)	-2	5**			F5	Generic	Rules Cyclopedia	205	Dark Dungeons Deluxe
+Spectre	Undead	2	6**			F6	Generic	Rules Cyclopedia	205	Dark Dungeons Deluxe
+Sphinx	Monster	0	12*****			F24	Generic	Rules Cyclopedia	205	Dark Dungeons Deluxe
+Spider, Black Widow, Giant	Lowlife	6	3*			F2	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe
+Spider, Crab, Giant	Lowlife	7	2*			F1	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe
+Spider, Hunting, Giant	Lowlife	8	2			F2	Generic	DMR2 Creature Catalog	100	PD (Animal, Size Variant)
+Spider, Jumping, Large	Lowlife	8	1+1*			F1	Generic	Dungeon #46	15	PD (Animal, Size Variant)
+Spider, Night	Monster (Planar)	-1	20*********			M36	Mystara	M5 Talons of Night	43	PD (Animal, Generic Term Variant)
 Spider, Plopped	Lowlife	9	1/2*			F1	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	95	TM
+Spider, Sand, Giant	Lowlife	6	2+1**			F1	Generic	DMR2 Creature Catalog	100	Creatures from Unknown Lands (Spider, Giant Dune)
+Spider, Shroud, Giant	Lowlife	4	5***			F5	Generic	DMR2 Creature Catalog	100	Creatures from Unknown Lands (Spider, giant Embalmer)
+Spider, Silk	Lowlife	7	2**			F0	Mystara	GAZ15 Dawn of the Emperors: Thyatis and Alphatia: Book #1: The Dungeon Master's Sourcebook	57	Creatures from Unknown Lands (Spider, Giant Tame)
+Spider, Spitting, Giant	Lowlife	7	2+1*			F1	Generic	Dungeon #39	39	PD (Animal, Size Variant)
+Spider, Tarantella, Giant	Lowlife	5	4*			F2	Generic	Rules Cyclopedia	206	Dark Dungeons Deluxe
+Spider, White Widow	Lowlife	6	3			F3	Thunder Rift	Quest for the Silver Sword	16	PD (Animal)
+Spider, Wood, Huge	Lowlife	6	1+3*			F1	Generic	DMR2 Creature Catalog	101	Dark Dungeons Deluxe
+Spirit Lord	Monster (Planar)	-10	36			SH36	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	41	PD (Generic Terms)
+Spirit, Druj	Undead	-4	14****			F14	Generic	Rules Cyclopedia	207	Dark Dungeons Deluxe
+Spirit, Druj, Hand	Undead	-4	14****			F14	Mystara	Dungeon #44	30	PD (Mythology, Generic Term Variant)
+Spirit, Evil	Undead	See below	2-35			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	41	PD (Generic Terms)
+Spirit, Greater	Undead	0	9-20			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	41	PD (Generic Terms)
+Spirit, Lesser	Undead	4	1d8			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	40	PD (Generic Terms)
+Spirit, Nature	Undead	See below	2-30			Varies	Mystara	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	42	PD (Generic Terms)
+Spirit, Odic	Undead	-4	16****			F16	Generic	Rules Cyclopedia	207	Dark Dungeons Deluxe
+Spirit, Revenant	Undead	-3	18****			F18	Generic	Rules Cyclopedia	207	Dark Dungeons Deluxe
+Spirit, Tree (Jautama)	Undead	0	10*			M10	Mystara (Hollow World)	HWA3 Hollow World: Nightstorm	35	PD (Generic Terms)
 Sprackle, Greater	Monster	6	2*			F2	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	96	TM
 Sprackle, Lesser	Monster	9	1/2*			F1-1	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	96	TM
+Sprite	Humanoid	5	1/2* (1-4 hp)			E1	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
+Sprite, Flitterling	Humanoid	6	1/8* (1 hp each)			E1	Generic	DMR2 Creature Catalog	41	TM (Silver Pixie)
+Sprite, Nixie	Humanoid	7	1*			E1	Generic	Rules Cyclopedia	197	Dark Dungeons Deluxe
+Sprite, Pixie	Humanoid	3	1***			E1	Generic	Rules Cyclopedia	200	Dark Dungeons Deluxe
+Squid, Giant	Animal (Giant)	7	6			F3	Generic	DMR2 Creature Catalog	102	Labyrinth Lord
+Squid, Giant (Kraken)	Monster	0	64* (plus tentacles)			F36	Generic	DMR2 Creature Catalog	66	Labyrinth Lord
+Stalwart	Human	5	9			F9	Generic	AC9 Creature Catalog	47	PD (Generic Term)
+Statue, Living, Crystal	Construct	4	3			F3	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
+Statue, Living, Iron	Construct	2	4*			F4	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
+Statue, Living, Jade	Construct	4	3+1**			F10	Generic	DMR2 Creature Catalog	70	Creatures from Unknown Lands (Statue, Animated (Jade))
+Statue, Living, Ooze/Rock	Construct	4	5**			D5	Generic	DMR2 Creature Catalog	70	Dark Dungeons Deluxe( Living Stone Statue)
+Statue, Living, Silver	Construct	4	1+1*			F2	Generic	DMR2 Creature Catalog	70	Creatures from Unknown Lands (Statue, Animated (Silver))
+Statue, Living, Steel	Construct	1	5**			F5	Generic	DMR2 Creature Catalog	70	PD (Generic Term, Material Variant)
+Steam Weevil	Lowlife	6	½ (1d4 hp)			NM	Generic	DMR2 Creature Catalog	102	Creatures from Unknown Lands (Steam Bug)
+Stirge	Monster	7	1*			F2	Generic	Rules Cyclopedia	208	Dark Dungeons Deluxe
+Strangle Vine	Lowlife	9	8 hp per 1'square			NM	Generic	DMR2 Creature Catalog	103	Creatures from Unknown Lands (Strangler Ivy)
+Strangleweed	Lowlife	1	12*			F6	Generic	DMR2 Creature Catalog	103	Labyrinth Lord: Advanced Edition Companion
 Surtaki	Monster	6	6*			F9	Generic	DMR2 Creature Catalog	104	TM
+Swan	Animal (Normal)	4	2			F1	Generic	GAZ12 The Golden Khan of Ethengar: Dungeon Master's Guide	43	PD (Animal)
+Tabi	Monster	6	5*			M5	Generic	DMR2 Creature Catalog	104	Creatures from Unknown Lands (Bawa)
+Teekal		7 (body), 4 (tentacle)	7*****	S		F10	Calidar	https://bruce-heard.blogspot.com/2020/07/Teekal.html		
+Termite, Giant	Lowlife	4	4			F2	Generic	Dragon #186	46	PD (Animal, Size Variant)
+Termite, Water, Fresh	Lowlife	6	2+1			F2	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Termite, Giant Water)
+Termite, Water, Salt	Lowlife	5	4			F3	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Termite, Giant Water)
+Termite, Water, Swamp	Lowlife	4	1+1			F1	Generic	Rules Cyclopedia	209	PD (Animal, Environmental Variant)
+Thoul	Monster	6	3**			F3	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Ghast)
 Thunderhead	Dragon-Kin	0	16** (or 8**, see below)			F16 (or 8, see below)	Generic	DMR2 Creature Catalog	105	TM
+Titan	Humanoid	-3	15********			IM1	Generic	Wrath of the Immortals: Book #1: Codex of the Immortals	113	Labyrinth Lord: Advanced Edition Companion
+Toad, Giant	Animal (Giant)	1	2+2			F1	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe
+Toad, Rock/Cave, Giant	Animal (Giant)	2	3+1*			F3	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe (Rockroach)
+Toad, Spottle	Animal (Normal)	7	1			F1	Mystara	Dungeon #12	27	TM (Spotted Toad)
 Tonal, Breve	Monster (Planar)	-10	38			ET3	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	49	TM
 Tonal, Crotchet	Monster (Planar)	-4	25			TE5	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	49	TM
 Tonal, Minim	Monster (Planar)	-6	28			CE3	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	49	TM
 Tonal, Quaver	Monster (Planar)	-2	20			TEN	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	49	TM
 Tonal, Semibreve	Monster (Planar)	-8	33			EM3	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	49	TM
 Tonal, Semiquaver	Monster (Planar)	0	15			IN	Generic	Set #5: Immortal Rules: DM's Guide to Immortals	49	TM
+Tortle	Humanoid	3	4			F4	Generic	DMR2 Creature Catalog	106	TM (Turtlefolk)
+Tortle, Snapper	Humanoid	5	3			F3	Generic	DMR2 Creature Catalog	97	Creatures from Unknown Lands (Kurma (Turtle-folk))
+Treant	Monster	2	8*			F8	Generic	Rules Cyclopedia	209	Dark Dungeons Deluxe
+Treant, Gakarak (Forest Brooder)	Monster	0	16****			F16	Generic	DMR2 Creature Catalog	44	TM (Greater Treant)
+Triton	Humanoid	4-6	5***, 6***, or 7****			D11	Generic	DMR2 Creature Catalog	106	Dark Dungeons Deluxe
+Troglodyte	Humanoid	5	2*			F2	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe
+Troll	Humanoid (Giant)	4	6+3*			F6	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe
+Turkey, Wild	Animal (Normal)	9	½			F1	Generic	Dragon #186	46	PD (Animal)
+Turtle, Snapping, Swamp	Animal (Normal)	0	20			F12	Mystara	CM9 Legacy of Blood	28	Creatures from Unknown Lands (Turtle, Giant)
 Two-Headed Crocotroll	Humanoid (Giant)	2	8+8*			F8	Mystara	PC2 Top Ballista: Adventurers Booklet	28	TM
 Tyrannabyss	Lowlife	8/6	5**			F3	Generic	Dungeon #2	64	TM
+Tyrannosaurus Molior	Construct	3	20			??	Mystara	CM7 The Tree of Life	Cover/16	TM (Tyrannosaurus Guardian)
+Ubue	Humanoid	7	3			F3	Mystara	B3 Palace of the Silver Princess (1st Printing)	29	Creatures from Unknown Lands (Ubunk)
+Undead Carcass	Undead	8	3			F3 and Special	Mystara	PC2 Top Ballista: Adventurers Booklet	26	PD (Generic Terms)
+Undead Mass	Undead	7	N/A			M16	Mystara	PC2 Top Ballista: Adventurers Booklet	30	PD (Generic Terms)
+Undead Sphimera	Undead	0	12***			F24 and Special	Mystara	PC2 Top Ballista: Adventurers Booklet	26	TM (Undead Sphinx)
+Undine	Monster (Planar)	4	8***			F16	Generic	Rules Cyclopedia	210	Dark Dungeons Deluxe
+Unicorn	Monster	2	4*			F8	Generic	Rules Cyclopedia	211	Dark Dungeons Deluxe
+Unicorn, Colt-pixy	Animal (Enchanted)	6	3*			E3	Generic	DMR2 Creature Catalog	22	PD (Mythology)
+Vampire	Undead	2	7**-9**			F7-9	Generic	Rules Cyclopedia	211	Dark Dungeons Deluxe
+Vampire Rose	Lowlife	7	4*			F2	Generic	DMR2 Creature Catalog	108	The Tome of Horrors Complete
+Vampire, Nosferatu	Undead	2	7-9**			Former character class at equivalent level	Generic	DMR2 Creature Catalog	107	PD (Mythology)
+Vampire, Velya	Undead	3	7**			F9	Generic	DMR2 Creature Catalog	108	TM (Aquatic Vampire)
+Vampire, Velya, Swamp	Undead	3	7**			F9	Generic	DMR2 Creature Catalog	108	TM (Swamp Aquatic Vampire)
+Vortex Creature, Blackball (Deadly Sphere, Umbral Blot)	Monster (Planar)	9	None (see below)	M	1 (1)	See below	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
 Wailing	Undead	3	5*			F5	Mystara	B1-9 In Search of Adventure	125	TM
 Watchwing	Animal	7	1/3			F0	Mystara	Different Worlds #43	M6	TM
+Weasel, Giant	Animal (Giant)	7	4+4			F3	Generic	Rules Cyclopedia	212	Labyrinth Lord
 Weird, Ether	Monster (Planar)	0	10*			C10	Mystara	GAZ4 The Kingdom of Ierendi	51	TM
+Weird, Water	Enchanted	5	3*			F6	Generic	DMR2 Creature Catalog	109	Creatures from Unknown Lands (Liquid Horror)
+Whale, Great	Animal (Giant)	6	36*			F18	Generic	Rules Cyclopedia	212	Labyrinth Lord (Whale, Sperm)
+Whale, Killer (Orca)	Animal (Normal)	6	6			F3	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
+Whale, Nar	Animal (Normal)	7	12			F12	Generic	Rules Cyclopedia	212	Labyrinth Lord
 Whipweed	Lowlife	3 (base), 5 (stalks)	2 (base), 3+1* (stalks)			F4	Generic	DMR2 Creature Catalog	110	TM
 White-Fang	Dragon-Kin	4	6**			F6	Generic	DMR2 Creature Catalog	111	TM
+Wight	Undead	5	3*			F3	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
+Wight, Sun	Undead	4	6**			F6	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	4	PD (Mythology, Generic Term Variant)
+Winged Warrior	Construct	5	2*			F2	Generic	DMR2 Creature Catalog	112	Creatures from Unknown Lands (Statue, Animated (Mantis))
+Wolf	Animal (Normal)	1	2+2			F1	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
+Wolf, Arctic	Animal (Normal)	6	6			F3	Generic	Hollow World Campaign Set: Adventure Book	29	Labyrinth Lord: Advanced Edition Companion (Winter Wolf)
+Wolf, Dire (Worg)	Animal (Giant)	6	4+1			F2	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
+Wolfsbane	Lowlife	9	1 hp			NM	Mystara	PC4 Night Howlers: DM's Guide	63	PD (Plant)
+Worm, Caecilia	Lowlife	6	6*	L	1d3 (1d3)	F3	Generic	Rules Cyclopedia	162	Dark Dungeons Deluxe
+Worm, Fyrsnaca	Monster	5	10*			F8	Generic	DMR2 Creature Catalog	43	PD (Animal, Color Variant)
+Worm, Great Annelid	Monster	7	25-50			F10	Generic	DMR2 Creature Catalog	10	PD (Animal, Power Variant)
+Worm, Leviathan, Desert	Lowlife	2	60**			F36	Generic	DMR2 Creature Catalog	69	PD (Mythology, Environmental Variant)
+Worm, Leviathan, Marine	Lowlife	4	70***			F36	Generic	DMR2 Creature Catalog	69	PD (Mythology, Environmental Variant)
 Worm, Masher	Lowlife	7	20*			F4	Generic	DMR2 Creature Catalog	78	TM
+Worm, Purple	Lowlife	6	15*			F8	Generic	Rules Cyclopedia	201	Dark Dungeons Deluxe
+Worm, Red	Lowlife	7	2+2*			F3	Generic	DMR2 Creature Catalog	87	PD (Animal, Color Variant)
+Worm, Slime	Lowlife	5	10			F5	Generic	DMR2 Creature Catalog	96	Creatures from Unknown Lands (Sticky Larva)
+Wraith	Undead	3	4**			F4	Generic	Rules Cyclopedia	212	Dark Dungeons Deluxe
+Wraith Lord	Undead	2	10*****			M10	Mystara	X11 Saga of the Shadow Lord	61	Creatures from Unknown Lands (Wraith Master)
+Wraith, Discorporate	Monster (Planar)	9	1+1**			F1	Mystara (Hollow World)	HWA1 Hollow World: Nightwail	63	TM (Lesser Wraith)
+Wraith, Mesmer	Undead	3	7***			F7, plus immune to spells	Generic	DMR2 Creature Catalog	78	Creatures from Unknown Lands (Upyr)
+Wraith, Skull	Undead	2	1+1****			M(Level of creator)	Mystara	CM8 The Endless Stair	29	PD (Mythology, Generic Term Variant)
+Wychglow	Monster	0	6**			F6	Generic	DMR2 Creature Catalog	113	Labyrinth Lord: Advanced Edition Companion (Will-O’-Wisp)
+Wychlamp	Monster (Planar)	2 or 0 (see below)	3+3**			M3	Generic	DMR2 Creature Catalog	114	TM (Lesser Will-O’-Wisp)
 Wyrd	Undead	4	4*			E4	Generic	DMR2 Creature Catalog	115	TM
 Wyrd, Greater	Undead	0	8****			E8	Generic	DMR2 Creature Catalog	115	TM
+Wyvern	Dragon-Kin	3	7*			F4	Generic	Rules Cyclopedia	213	Dark Dungeons Deluxe
+Yowler	Monster	0	3+3**			M11	Generic	DMR2 Creature Catalog	117	SRD
 Zarnese Vultron	Dragon-Kin	4	6+2**	L		F4	Calidar	CAL1a Conversion Guide to Meryath for Vintage Roleplaying	8	TM
+Zombie	Undead	8	2			F1	Generic	Rules Cyclopedia	213	Dark Dungeons Deluxe
+Zombie, Desert	Undead	4	4+1*			F4	Mystara	GAZ13 The Shadow Elves: Dungeon Master's Guide	61	PD (Mythology, Environmental Variant)
+Zombie, Frost	Undead	6	2*			F2	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	16	PD (Mythology, Environmental Variant)
+Zombie, Lightning, Greater	Undead	6	4*			F4	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	94	PD (Mythology, Elemental Variant)
+Zombie, Lightning, Lesser	Undead	8	2*			F2	Generic	Wrath of the Immortals: Book #2: The Immortals' Fury	94	PD (Mythology, Elemental Variant)
+Zombie, Minotaur	Undead	5	3			F1	Mystara	MSOLO2 Maze of the Riddling Minotaur	27	PD (Mythology, Combo)
+Zombie, Topi	Undead	6	3*			F2	Generic	DMR2 Creature Catalog	105	Creatures from Unknown Lands (Vodun)
 Zzonga-Bush	Lowlife	9	1			F4	Mystara	GAZ15 Dawn of the Emperors: Thyatis and Alphatia: Book #1: The Dungeon Master's Sourcebook	58	TM
-Refractor, Noble	Lowlife	7	4			F3	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Noble)
-Refractor, Pharaoh	Lowlife	8	6			F4	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Pharaoh
-Refractor, Soldier	Lowlife	4	2			F2	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Soldier)
-Refractor, Worker	Lowlife	8	1			F1	Mystara (Hollow World)	HWR2 Hollow World: Kingdom of Nithia: DM's Tome	20	TM (Antfolk, Worker)
-Epadrazzil	Monster (Planar)	3	4+1***			F3+special	Generic	Dungeon #2	64	TM (Apefolk)
-Vampire, Velya	Undead	3	7**			F9	Generic	DMR2 Creature Catalog	108	TM (Aquatic Vampire)
-Golem, Bamboo Warrior	Construct	0	3			F3	Thunder Rift	Rage of the Rakasta	16	TM (Bamboo Golem)
-Cryion	Humanoid	6	2+1**			F2	Generic	DMR2 Creature Catalog	23	TM (Batfolk)
-Gyerian	Monster	3	3			F3	Generic	DMR2 Creature Catalog	51	TM (Birdfolk)
-Faenare	Humanoid	6	2d8***			E3	Mystara	PC2 Top Ballista: DMs Booklet	6	TM (Birdfolk, Mountain)
-Rakasta, Ninja	Humanoid	5	2**			T2	Thunder Rift	Rage of the Rakasta	16	TM (Catfolk, Ninja)
-Rakasta, Warrior	Humanoid	7	2			F2	Thunder Rift	Rage of the Rakasta	16	TM (Catfolk, Warrior)
-Orc, Jinsu	Humanoid	6	1			F1	Generic	Polyhedron #51	14	TM (Diner Orc)
-Ebon Tiger	Monster	6	6**			M3	Thunder Rift	Rage of the Rakasta	16	TM (Ebony Tiger)
-Pachydermion	Humanoid	3	7			F7	Generic	DMR2 Creature Catalog	81	TM (Elephantfolk)
-Sloth, Vulcanian	Animal (Normal)	6	45			F25	Mystara	Dragon #161	100	TM (Gargantuan Sloth)
-Gator Man (Gurrash)	Humanoid	3	7			F7	Generic	DMR2 Creature Catalog	47	TM (Gatorfolk)
-Kna	Humanoid	5	7			F7	Generic	DMR2 Creature Catalog	65	TM (Goldfishfolk)
-Ghoul, Agarat	Undead	4	4+3*			F5	Mystara	X8 Drums on Fire Mountain	28	TM (Greater Ghoul)
-Treant, Gakarak (Forest Brooder)	Monster	0	16****			F16	Generic	DMR2 Creature Catalog	44	TM (Greater Treant)
-Hutaakan, Warrior	Humanoid	5	1			F1	Generic	DMR2 Creature Catalog	58	TM (Jackalfolk Other)
-Hutaakan, Priest	Humanoid	6	2*			C2	Generic	DMR2 Creature Catalog	58	TM (Jackalfolk Priest)
-Orc, Kara-Kara	Humanoid	9 (see below)	1+1 or 1+4 (see below)			F1-F2 (see below)	Generic	DMR2 Creature Catalog	63	TM (Jungle Orc)
-Ash Crawler	Monster	6	3+1			F1 (Special)	Generic	DMR2 Creature Catalog	12	TM (Lava Rat)
-Lizard, Rockhome	Monster	5	3			F3	Generic	DMR2 Creature Catalog	71	TM (Lesser Lizardfolk)
-Flapsail	Dragon-Kin	2	8*			F8	Mystara	Hollow World Campaign Set: Adventure Book	23	TM (Lesser Red Dragon)
-Wychlamp	Monster (Planar)	2 or 0 (see below)	3+3**			M3	Generic	DMR2 Creature Catalog	114	TM (Lesser Will-O’-Wisp)
-Wraith, Discorporate	Monster (Planar)	9	1+1**			F1	Mystara (Hollow World)	HWA1 Hollow World: Nightwail	63	TM (Lesser Wraith)
-Robot, Automatons of the Blacklore Valley	Construct	4	2			M4	Mystara (Hollow World)	Hollow World Campaign Set: Adventure Book	22	TM (Litter Robot)
-Lizardman, Lesser	Humanoid	5	1+1			F1	Generic	The Dragon's Den: Wild Dragon Den	7	TM (Lizardfolk Whelp/Female)
-Sis'thik (Desert Scourge)	Humanoid	4-5	3+3			F2	Generic	DMR2 Creature Catalog	95	TM (Lizardfolk, Desert)
-Horse, Pony, Krugel	Animal (Normal)	7	2			NM	Mystara	Hollow World Campaign Set: Adventure Book	26	TM (Mountain Pony)
-Newt	Humanoid	6	1+2			F3	Thunder Rift	The Knight of Newts	14	TM (Newtfolk)
-Cat, Bekkah	Animal (Normal)	4	12*			F6	Generic	DMR2 Creature Catalog	18	TM (Panther, Black)
-Carnifex	Humanoid	-6 to -13	18			Class 18	Mystara	M3 Twilight Calling	25	TM (Raptorfolk)
-Ratling	Humanoid	7	1			NM	Thunder Rift	Quest for the Silver Sword	16	TM (Ratfolk)
-Golem, Replica-	Construct	6	14**			M14	Pelinore	GM3 In Search of New Gods	39	TM (Replicant Golem)
-Sprite, Flitterling	Humanoid	6	1/8* (1 hp each)			E1	Generic	DMR2 Creature Catalog	41	TM (Silver Pixie)
-Dragon Spirit							Mystara	Dragon #158	11	TM (Spirit Dragon)
-Toad, Spottle	Animal (Normal)	7	1			F1	Mystara	Dungeon #12	27	TM (Spotted Toad)
-Vampire, Velya, Swamp	Undead	3	7**			F9	Generic	DMR2 Creature Catalog	108	TM (Swamp Aquatic Vampire)
-Tortle	Humanoid	3	4			F4	Generic	DMR2 Creature Catalog	106	TM (Turtlefolk)
-Tyrannosaurus Molior	Construct	3	20			??	Mystara	CM7 The Tree of Life	Cover/16	TM (Tyrannosaurus Guardian)
-Undead Sphimera	Undead	0	12***			F24 and Special	Mystara	PC2 Top Ballista: Adventurers Booklet	26	TM (Undead Sphinx)
-Shark, Vamora	Animal (Normal)	4	6*			F3	Generic	DMR2 Creature Catalog	92	TM (Whitetip Reef Shark)
-Lupin	Humanoid	6	2			F2	Generic	DMR2 Creature Catalog	72	TM (Wolffolk)
-Archer Bush	Lowlife	7	2			F1	Generic	DMR2 Creature Catalog	11	The Tome of Horrors Complete
-Brownie, Redcap	Humanoid	7	2*			H2	Generic	DMR2 Creature Catalog	17	The Tome of Horrors Complete
-Cat, Lynx	Animal (Normal)	5	2+2			F1	Generic	DMR2 Creature Catalog	18	The Tome of Horrors Complete
-Decapus (Land or Marine)	Monster	5	4			F2	Generic	DMR2 Creature Catalog	26	The Tome of Horrors Complete
-Frog, Poison, Giant	Animal (Giant)	7	2**			F1	Generic	DMR2 Creature Catalog	41	The Tome of Horrors Complete
-Jupiter Blood Sucker	Lowlife	5	3			F3	Mystara	B3 Palace of the Silver Princess (1st Printing)	28	The Tome of Horrors Complete
-Manikin (Mandragora)	Lowlife	6	1/2* (1-4 hp)			M1	Mystara	GAZ3 The Principalities of Glantri	94	The Tome of Horrors Complete
-Monkey, Marmoset, Giant	Animal (Normal)	5	3			F3	Generic	B3 Palace of the Silver Princess (1st Printing)	28	The Tome of Horrors Complete
-Rat, Baric	Lowlife	7	5			F5	Mystara	B3 Palace of the Silver Princess (1st Printing)	26	The Tome of Horrors Complete
-Soul Eater	Monster (Planar)	0	10*			C10	Generic	DMR2 Creature Catalog	98	The Tome of Horrors Complete
-Vampire Rose	Lowlife	7	4*			F2	Generic	DMR2 Creature Catalog	108	The Tome of Horrors Complete
-Slug, Freshwater, Giant	Lowlife	6	3			F1	Generic	CM9 Legacy of Blood	27	The Tome of Horrors Complete (Slug, Sea, Giant)
