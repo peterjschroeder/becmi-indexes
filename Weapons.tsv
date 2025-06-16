@@ -1,8 +1,9 @@
 Weapon	Damage	Cost (gp)	Source	Pg. #	OGL Source/Legal Status
 Axe, Battle	1d8	7	Rules Cyclopedia	62	Dark Dungeons Deluxe
-Axe, Eye		4		30	
+Axe, Eye, Heavy	1d4	5	HWR2 Kingdom of Nithia: Player's Tome	30	TM
+Axe, Eye, Light	1d6	3	HWR2 Kingdom of Nithia: Player's Tome	30	TM
 Axe, Hand	1d6	4	Rules Cyclopedia	62	Dark Dungeons Deluxe
-Axe, Mace		-		31	
+Axe, Mace	1d6	-	HWR2 Kingdom of Nithia: Player's Tome	31	PD (Common Terms)
 Axe, Tomahawk	1d4	??	GAZ14 The Atruaghin Clans - Player's Guide	62	Dark Dungeons Deluxe (Axe, Hand)
 Blackjack	1d2	5	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Blowgun, 2' +	Nil	65	Rules Cyclopedia	62	Dark Dungeons Deluxe (Blowgun, Large)
@@ -16,7 +17,7 @@ Bow, Composite Short (Horse)	??	??	Dungeons & Dragons: Set #1: Basic Set (1st Pr
 Bow, Composite, Ethengar	1d6	??	GAZ12 The Golden Khan of Ethengar - Players' Guide	24	TM
 Bow, Long	1d6	40	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Bow, Short	1d6	25	Rules Cyclopedia	62	Dark Dungeons Deluxe
-Bow, Staff		15		32	
+Bow, Staff	1d4	15	HWR2 Kingdom of Nithia: Player's Tome	32	PD
 Cestus	1d3	5	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Chakram	1d6	??	X5 Temple of Death	5	Dark Dungeons Deluxe
 Chakram (Weapon Mastery)	1d6	??	Dragon #197	42	Dark Dungeons Deluxe
@@ -30,7 +31,7 @@ Crossbow, Repeater Sporting	6d6 or 12d4?	1,500	GAZ7 The Northern Reaches: DM Boo
 Dagger	1d4	3	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Dagger, Needle	1d3	3	HWR3 Hollow World: The Milenian Empire: Adventurer's Guide	28	Dark Dungeons Deluxe (Stiletto)
 Dagger, Silver	1d4	30	Rules Cyclopedia	62	Dark Dungeons Deluxe
-Dagger, Throwing				32	
+Dagger, Throwing	1d2/1d4	3	HWR2 Kingdom of Nithia: Player's Tome	32	PD
 Gun, Hand	1d8+2	50	Dragon #199	98	Dark Dungeons Deluxe (Pistol)
 Halberd	1d10	7	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Hammer, Throwing	1d4	4	Rules Cyclopedia	62	Dark Dungeons Deluxe
@@ -39,9 +40,8 @@ Iron Pot	1d8+6	500	Dragon #199	99	TM
 Javelin	1d6	1	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Javelin Thrower	By Javelin		HWR3 Hollow World: The Milenian Empire: Adventurer's Guide	27	PD
 Javelin, Barbed	1d6+1	??	GAZ14 The Atruaghin Clans - Player's Guide	51	PD
-Khopesh, One-Handed		25		31	
-Khopesh, Short		15		31	
-Khopesh, Two-Handed		25		31	
+Khopesh, Normal	1d6	25	HWR2 Kingdom of Nithia: Player's Tome	31	PD
+Khopesh, Short	1d4	15	HWR2 Kingdom of Nithia: Player's Tome	31	PD
 Knife, Bullroarer	1d6	??	X5 Temple of Death	5	TM
 Knife, Bullroarer (Weapon Mastery)	1d6	??	Dragon #197	42	TM
 Knife, Whale tooth	1d4	??	GAZ14 The Atruaghin Clans - Player's Guide	46	Dark Dungeons Deluxe (Dagger)
@@ -58,7 +58,7 @@ Polearm	1d10	7	Rules Cyclopedia	62	Dark Dungeons Deluxe (Poleaxe)
 Poleaxe	1d10	5	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Poleaxe, Manscorpion	3d6	??	Dragon #192	45	PD/SRD Monster
 Rock, Thrown	1d3	1/10	Rules Cyclopedia	62	Dark Dungeons Deluxe (Thrown Object)
-Setu				31	
+Setu	1d8	1	HWR2 Kingdom of Nithia: Player's Tome	31	TM
 Shield, Horned	1d2	15	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Shield, Knife	1d4+1	65	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Shield, Sword	1d4+2	200	Rules Cyclopedia	62	Dark Dungeons Deluxe
@@ -68,10 +68,10 @@ Spear	1d6	3	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Spear Thrower	By Spear		GAZ14 The Atruaghin Clans - Player's Guide	51	PD
 Spear, Barbed	1d6+1	??	GAZ14 The Atruaghin Clans - Player's Guide	51	PD
 Spear, Buffalo-bone tipped	1d6	??	GAZ14 The Atruaghin Clans - Player's Guide	31	Dark Dungeons Deluxe (Spear)
-Spear, Nithian				31	
+Spear, Nithian	1d6	3	HWR2 Kingdom of Nithia: Player's Tome	31	TM
 Spear, Whale tooth	1d6	??	GAZ14 The Atruaghin Clans - Player's Guide	46	Dark Dungeons Deluxe (Spear)
 Staff	1d6	5	Rules Cyclopedia	62	Dark Dungeons Deluxe
-Staff, Sword		5		30	
+Staff, Sword	1d8	4	HWR2 Kingdom of Nithia: Player's Tome	30	PD
 Staff-mace	2d4-1/2d4	60	Imagine: Special Edition	-	TM
 Sword stick	1d6	20	Imagine: Special Edition	-	Dark Dungeons Deluxe
 Sword, Bastard, One-Handed	1d6+1	15	Rules Cyclopedia	62	Dark Dungeons Deluxe
@@ -85,7 +85,7 @@ Sword, Tiger Clan Short	1d6+1	??	GAZ14 The Atruaghin Clans - Player's Guide	51	T
 Sword, Toratsume	1d4	15	Rage of the Rakasta	13	TM
 Sword, Two-Handed	1d10	15	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Sword, Wakizashi	1d6	7	Rage of the Rakasta	13	Dark Dungeons Deluxe (Short Sword)
-Throwing Stick		1		32	
+Throwing Stick	1d2	1	HWR2 Kingdom of Nithia: Player's Tome	32	PD
 Torch	1d4	1/6	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Trident	1d6	5	Rules Cyclopedia	62	Dark Dungeons Deluxe
 Venom Blade	1d4	??	Imagine #23	30	TM
